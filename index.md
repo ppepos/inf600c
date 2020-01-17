@@ -27,7 +27,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | --- | --- | --- | --- |
 | 02/05 | Rétro-Ingénierie | Rétro-Ingénierie | Distribution du TP Spécial |
 | 02/12 | Rétro-Ingénierie | Rétro-Ingénierie | Présentation spéciale |
-| 02/19 | Révision | Révision | Invité + remise TP2 |
+| 02/19 | Révision | Révision | Invité + remise TP1 |
 | 02/26 | Relâche | Relâche | |
 
 ## Partie 2.1
