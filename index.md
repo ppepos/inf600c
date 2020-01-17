@@ -2,7 +2,7 @@
 
 * [Horaires et locaux](http://www.etudier.uqam.ca/cours?sigle=INF600C#Horaire)
 * [Plan de cours](http://syllabus.uqam.ca/files/1546976573_2019_Hiver_INF600C.html)
-* [Entente UQAM](EntenteUQAM.pdf) à signer
+* [Entente UQAM](doc/EntenteUQAM.pdf) à signer
 
 # Échéancier
 
@@ -27,9 +27,9 @@ Note: les dates ci-dessous ne sont qu'indicatives
 
 # Laboratoires
 
-Les laboratoires ont lieu dans un environnement dédié. Comme nous allons attaquer des services qui sont déployés à l'intérieur de l'UQAM, il est important que tout le monde signe l'[[entente disponible ici|EntenteUQAM.pdf]].
+Les laboratoires ont lieu dans un environnement dédié. Comme nous allons attaquer des services qui sont déployés à l'intérieur de l'UQAM, il est important que tout le monde signe l'[entente disponible ici](doc/EntenteUQAM.pdf).
 
-De façon optionnelle, vous pouvez créer un compte anonyme sur [[le scoreboard|https://scoreboard.inf600c.uqam.ca/]] afin de mesurer votre progression dans les exercices. Votre score dans le scoreboard n'a aucune incidence sur votre évaluation dans le cadre du cours.
+De façon optionnelle, vous pouvez créer un compte anonyme sur [le scoreboard](https://scoreboard.inf600c.uqam.ca/) afin de mesurer votre progression dans les exercices. Votre score dans le scoreboard n'a aucune incidence sur votre évaluation dans le cadre du cours.
 
 La connexion à l'environnement se fait via ssh grâce au login et mot de passe qui vous a été envoyé par courriel
 
@@ -39,7 +39,7 @@ $ ssh -D 2223 LOGIN@workspace.inf600c.uqam.ca
 
 Pour les services web, l'accès se fait de préférence via le proxy SOCKS5 créé par ssh via l'option -D 2223.
 
-Un fichier d'auto-configuration [[inf600c.pac]] est disponible pour la majorité des navigateurs.
+Un fichier d'auto-configuration [inf600c.pac](http://info.uqam.ca/~privat/INF600C/inf600c.pac) est disponible pour la majorité des navigateurs.
 
 * Pour curl, l'option `-x socks5h://localhost:2223` fait le travail.
   Exemple: 
@@ -59,7 +59,7 @@ chromium --proxy-pac-url=http://info.uqam.ca/~privat/INF600C/inf600c.pac "http:/
 
 # Ressources
 
-* [[Aide mémoire Pep/8 (version INF600C)|aide-pep8.pdf]] ; site du cours [[INF2170]]
+* [Aide mémoire Pep/8 (version INF600C)](res/aide-pep8.pdf)
 
 ## Livres
 
@@ -77,28 +77,28 @@ Ils sont à la bibliothèque des sciences de l'UQAM et certains sont à la BANQ.
 
 ## Anciens examens
 
-* [[INF600C-181-intra-sujet.pdf]] et [[INF600C-181-intra-corrige.pdf]]
-* [[INF600C-181-final-sujet.pdf]] et [[INF600C-181-final-corrige.pdf]]
-* [[INF600C-191-intra-sujet.pdf]] et [[INF600C-191-intra-corrige.pdf]]
+* [Intra 2018](exams/INF600C-181-intra-sujet.pdf) et [corrigé](exams/INF600C-181-intra-corrige.pdf)
+* [Final 2018](exams/INF600C-181-final-sujet.pdf) et [corrigé](exams/INF600C-181-final-corrige.pdf)
+* [Intra 2019](exams/INF600C-191-intra-sujet.pdf) et [corrigé](exams/INF600C-191-intra-corrige.pdf)
 
 ## Exercices
 
-* [[Exploit-Education|https://exploit.education/]] (nebula, protostar, etc.)
-* [[Over The Wire|http://overthewire.org]]
-* [[Cryptopals|http://cryptopals.com/]]
-* [[Ringzer0|https://ringzer0team.com/]]
-* [[CTF AGEEI|https://ctf.ageei.uqam.ca/]]
+* [Exploit-Education](https://exploit.education/) (nebula, protostar, etc.)
+* [Over The Wire](http://overthewire.org)
+* [Cryptopals](http://cryptopals.com/)
+* [Ringzer0](https://ringzer0team.com/)
+* [CTF AGEEI](https://ctf.ageei.uqam.ca/)
 
 ## CTF
 
-* [[CTF Guide|https://trailofbits.github.io/ctf/]]
-* [[CTF time|http://ctftime.org]]
+* [CTF Guide](https://trailofbits.github.io/ctf/)
+* [CTF time](http://ctftime.org)
 
 ## Aide et discussions slack
 
-* [[#INF600C|https://ageei-uqam.slack.com/messages/inf600c/]] - chan du cours
-* [[#ctf|https://ageei-uqam.slack.com/messages/ctf/]] - aide pour le CTF de l'AGEEI
-* [[#securite|https://ageei-uqam.slack.com/messages/securite/]] - discussion et nouvelles sur la sécurité informatique en général
+* [#INF600C](https://ageei-uqam.slack.com/messages/inf600c/) - chan du cours
+* [#ctf](https://ageei-uqam.slack.com/messages/ctf/) - aide pour le CTF de l'AGEEI
+* [#securite](https://ageei-uqam.slack.com/messages/securite/) - discussion et nouvelles sur la sécurité informatique en général
 
 ## Autres liens
 
