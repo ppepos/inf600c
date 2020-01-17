@@ -6,16 +6,32 @@
 
 # Échéancier
 
-Note: les dates ci-dessous ne sont qu'indicatives
+Note: les dates ci-dessous ne sont qu'indicatives.
 
 ## Partie 1.1
 
 | Date | Sujet | Laboratoire | Note |
 | --- | --- | --- | --- |
-| 01/8 | Introduction | Aucun | |
+| 01/08 | Introduction | Aucun | |
+| 01/15 | Exploitation système | Introduction et E.S. | |
+| 01/22 | Exploitation système | E.S. | |
+| 01/29 | Exploitation système | E.S. | Distribution du sujet TP1 |
 
 ## Partie 1.2
+
+| Date | Sujet | Laboratoire | Note |
+| --- | --- | --- | --- |
+| 02/05 | Rétro-Ingénierie | Rétro-Ingénierie | Distribution du TP Spécial |
+| 02/12 | Rétro-Ingénierie | Rétro-Ingénierie | Présentation spéciale |
+| 02/19 | Révision | Révision | Invité + remise TP2 |
+| 02/26 | Relâche | Relâche | |
+
 ## Partie 2.1
+
+| Date | Sujet | Laboratoire | Note |
+| --- | --- | --- | --- |
+| 02/26 | Examen | TBD | |
+
 ## Partie 2.2
 
 # Support et contacts
