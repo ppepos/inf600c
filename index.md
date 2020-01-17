@@ -1,3 +1,7 @@
+---
+title: INF600C - Accueil
+---
+
 # Informations importantes
 
 * [Horaires et locaux](http://www.etudier.uqam.ca/cours?sigle=INF600C#Horaire)
