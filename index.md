@@ -49,13 +49,15 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 Les laboratoires ont lieu dans un environnement dédié. Comme nous allons attaquer des services qui sont déployés à l'intérieur de l'UQAM, il est important que tout le monde signe l'[entente disponible ici](doc/EntenteUQAM.pdf).
 
-De façon optionnelle, vous pouvez créer un compte anonyme sur [le scoreboard](https://scoreboard.inf600c.uqam.ca/) afin de mesurer votre progression dans les exercices. Votre score dans le scoreboard n'a aucune incidence sur votre évaluation dans le cadre du cours.
+De façon optionnelle, vous pouvez créer un compte anonyme sur [le scoreboard](http://scoreboard.kaa/) afin de mesurer votre progression dans les exercices. Votre score dans le scoreboard n'a aucune incidence sur votre évaluation dans le cadre du cours. Le scoreboard est hébergé à l'interne, il faut donc suivre la procédure pour les [services web](Services-web) pour pouvoir y accéder.
 
 La connexion à l'environnement se fait via ssh grâce au login et mot de passe qui vous a été envoyé par courriel
 
 ~~~
 $ ssh -D 2223 LOGIN@workspace.inf600c.uqam.ca
 ~~~
+
+## Services web
 
 Pour les services web, l'accès se fait de préférence via le proxy SOCKS5 créé par ssh via l'option -D 2223.
 
