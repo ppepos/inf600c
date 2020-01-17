@@ -1,24 +1,22 @@
-# INF600C - Sécurité des logiciels et exploitation de vulnérabilités - Hiver 2019
-
-## Informations importantes
+# Informations importantes
 
 * [Horaires et locaux](http://www.etudier.uqam.ca/cours?sigle=INF600C#Horaire)
 * [Plan de cours](http://syllabus.uqam.ca/files/1546976573_2019_Hiver_INF600C.html)
 * [Entente UQAM](EntenteUQAM.pdf) à signer
 
-## Échéancier
+# Échéancier
 
 Note: les dates ci-dessous ne sont qu'indicatives
 
-### Partie 1.1
+## Partie 1.1
 
 | Date | Sujet | Laboratoire | Note |
 | --- | --- | --- | --- |
 | 01/8 | Introduction | Aucun | |
 
-### Partie 1.2
-### Partie 2.1
-### Partie 2.2
+## Partie 1.2
+## Partie 2.1
+## Partie 2.2
 
 # Support et contacts
 
