@@ -6,7 +6,7 @@ title: INF600C - Accueil
 
 * [Horaires et locaux](http://www.etudier.uqam.ca/cours?sigle=INF600C#Horaire)
 * [Plan de cours](http://syllabus.uqam.ca/files/1546976573_2019_Hiver_INF600C.html)
-* [Entente UQAM](doc/EntenteUQAM.pdf) à signer
+* [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
 
 # Échéancier
 
@@ -47,7 +47,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 # Laboratoires
 
-Les laboratoires ont lieu dans un environnement dédié. Comme nous allons attaquer des services qui sont déployés à l'intérieur de l'UQAM, il est important que tout le monde signe l'[entente disponible ici](doc/EntenteUQAM.pdf).
+Les laboratoires ont lieu dans un environnement dédié. Comme nous allons attaquer des services qui sont déployés à l'intérieur de l'UQAM, il est important que tout le monde signe l'[entente disponible ici](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf).
 
 De façon optionnelle, vous pouvez créer un compte anonyme sur [le scoreboard](https://scoreboard.inf600c.uqam.ca/) afin de mesurer votre progression dans les exercices. Votre score dans le scoreboard n'a aucune incidence sur votre évaluation dans le cadre du cours.
 
@@ -79,7 +79,7 @@ chromium --proxy-pac-url=http://info.uqam.ca/~privat/INF600C/inf600c.pac "http:/
 
 # Ressources
 
-* [Aide mémoire Pep/8 (version INF600C)](res/aide-pep8.pdf)
+* [Aide mémoire Pep/8 (version INF600C)](https://info.uqam.ca/~privat/INF600C/aide-pep8.pdf)
 
 ## Livres
 
