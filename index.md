@@ -19,7 +19,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 01/08 | [Introduction](pres/01-intro.pdf) | Aucun | |
 | 01/15 | [Exploitation système](pres/02-systeme.pdf) | Introduction et E.S. | |
 | 01/22 | Exploitation système | E.S. | |
-| 01/29 | Exploitation système | E.S. | Distribution du sujet TP1 |
+| 01/29 | Exploitation système | E.S. | [Distribution du sujet TP1](tps.md) |
 
 ## Partie 1.2
 
