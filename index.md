@@ -99,9 +99,9 @@ Ils sont à la bibliothèque des sciences de l'UQAM et certains sont à la BANQ.
 
 ## Anciens examens
 
-* [Intra 2018](exams/INF600C-181-intra-sujet.pdf) et [corrigé](exams/INF600C-181-intra-corrige.pdf)
-* [Final 2018](exams/INF600C-181-final-sujet.pdf) et [corrigé](exams/INF600C-181-final-corrige.pdf)
-* [Intra 2019](exams/INF600C-191-intra-sujet.pdf) et [corrigé](exams/INF600C-191-intra-corrige.pdf)
+* [Intra 2018](exam/INF600C-181-intra-sujet.pdf) et [corrigé](exam/INF600C-181-intra-corrige.pdf)
+* [Final 2018](exam/INF600C-181-final-sujet.pdf) et [corrigé](exam/INF600C-181-final-corrige.pdf)
+* [Intra 2019](exam/INF600C-191-intra-sujet.pdf) et [corrigé](exam/INF600C-191-intra-corrige.pdf)
 
 ## Exercices
 
