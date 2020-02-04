@@ -34,7 +34,7 @@ Le document devra démontrer que les étudiants ont:
 * Construit et expliqué des payloads et des exploits originaux.
 * Entièrement détaillé leur approche qui puisse être comprise et rejouée par le lecteur/correcteur.
 
-La simplicité de l'exploitation (et l'absence de sur-ingénierie) sera aussi prise en considération dans notation.
+La simplicité de l'exploitation (et l'absence de sur-ingénierie) sera aussi prise en considération dans la notation.
 
 Toute attaque par force brute doit également être justifiée:
 
@@ -46,7 +46,7 @@ Toute attaque par force brute doit également être justifiée:
 
 Tout code utilisé pour résoudre les problèmes doit être inclus en annexe. En annexe signifie que le code ne compte pas parmi les 10 pages.
 
-Le code inclut dans le document doit être lisible, correctement indenté, correctement paginé.￼
+Le code inclut dans le document doit être lisible, correctement indenté, correctement paginé.
 
 ## Dates et remise du TP1
 
