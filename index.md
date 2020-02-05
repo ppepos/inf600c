@@ -25,7 +25,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 | Date | Sujet | Laboratoire | Note |
 | --- | --- | --- | --- |
-| 02/05 | Rétro-Ingénierie | Rétro-Ingénierie | |
+| 02/05 | Fin E.S. + Rétro-Ingénierie | Rétro-Ingénierie | |
 | 02/12 | Rétro-Ingénierie | Rétro-Ingénierie | Distribution du TP Spécial |
 | 02/19 | Révision | Révision | Invité + remise TP1 |
 | 02/26 | Relâche | Relâche | |
@@ -34,7 +34,15 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 | Date | Sujet | Laboratoire | Note |
 | --- | --- | --- | --- |
-| 02/26 | Examen | TBD | |
+| 03/04 | Examen | TBD | |
+| 03/11 | Web | TBD | |
+| 03/18 | Web | TBD | |
+| 03/25 | Corruption mémoire | TBD | Énoncé TP2 |
+| 04/01 | Exploitation binaire | TBD | |
+| 04/08 | Exploitation binaire moderne | TBD | |
+| 04/15 | Contre-mesures modernes | TBD | |
+| 04/22 | Examen | Remise TP2 | |
+| 04/27 | | Remise TPS | |
 
 ## Partie 2.2
 
