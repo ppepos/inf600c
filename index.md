@@ -27,9 +27,9 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | --- | --- | --- | --- |
 | 02/05 | Fin E.S. + [Rétro-Ingénierie](pres/03-rev.pdf) Rétro-Ingénierie | Rétro-Ingénierie | |
 | 02/12 | Rétro-Ingénierie | Rétro-Ingénierie | Distribution du TP Spécial |
-| 02/19 | Révision | Révision | Invité + remise TP1 |
+| 02/19 | Révision | Révision | Invité Spécial: Hugo Genesse |
 | 02/26 | Relâche | Relâche | |
-| 03/04 | Examen | TBD | |
+| 03/04 | Examen | TBD | Remise TP1 |
 
 ## Partie 2.1
 
@@ -42,7 +42,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 | Date | Sujet | Laboratoire | Note |
 | --- | --- | --- | --- |
-| 03/25 | Corruption mémoire | TBD | Énoncé TP2 |
+| 03/25 | Corruption mémoire | TBD | Énoncé TP2 + Invité Spécial: David Goulet |
 | 04/01 | Exploitation binaire | TBD | |
 | 04/08 | Exploitation binaire moderne | TBD | |
 | 04/15 | Contre-mesures modernes | TBD | |
@@ -75,7 +75,7 @@ Pour les services web, l'accès se fait de préférence via le proxy SOCKS5 cré
 Un fichier d'auto-configuration [inf600c.pac](http://info.uqam.ca/~privat/INF600C/inf600c.pac) est disponible pour la majorité des navigateurs.
 
 * Pour curl, l'option `-x socks5h://localhost:2223` fait le travail.
-  Exemple: 
+  Exemple:
 
 ~~~
 curl -x socks5h://localhost:2223 http://workspace.kaa/
@@ -142,4 +142,3 @@ Ils sont à la bibliothèque des sciences de l'UQAM et certains sont à la BANQ.
 
 * [Montréhack](https://montrehack.ca/) Apprentissage et partage de connaissance sur la sécurité informatique, tous les 3e mercredis du mois.
 * [Super Mario World Credits Warp Explained](https://www.youtube.com/watch?v=vAHXK2wut_I) Vidéo sur une exploitation binaire.
-
