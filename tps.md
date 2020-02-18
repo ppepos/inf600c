@@ -59,7 +59,7 @@ Les instructions sont dans:
 
 La remise doit être électronique (pdf) ET analogique (impression).
 
-* Analogique: le document papier doit être remis au plus tard le **19 février** à la fin du laboratoire.
+* Analogique: le document papier doit être remis au plus tard le ~19 février~ **5 mars** à la fin du laboratoire.
 * Numérique: dans le répertoire «`tp1_remise`» dans le home de votre utilisateur sur le serveur workspace des laboratoires, vous remettrez:
 
 	* Le fichier pdf de votre rapport (celui imprimé)
