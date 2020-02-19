@@ -27,7 +27,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | --- | --- | --- | --- |
 | 02/05 | Fin E.S. + [Rétro-Ingénierie](pres/03-rev.pdf) Rétro-Ingénierie | Rétro-Ingénierie | |
 | 02/12 | Rétro-Ingénierie | Rétro-Ingénierie | Distribution du TP Spécial |
-| 02/19 | Révision | Révision | Invité Spécial: Hugo Genesse |
+| 02/19 | Révision | Révision | Invité Spécial: Hugo Genesse [slides](https://shorturl.at/dtPX6) |
 | 02/26 | Relâche | Relâche | |
 | 03/04 | Examen | TBD | Remise TP1 |
 
