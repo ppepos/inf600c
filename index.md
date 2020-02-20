@@ -36,7 +36,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | Date | Sujet | Laboratoire | Note |
 | --- | --- | --- | --- |
 | 03/11 | Web | TBD | |
-| 03/18 | Web | TBD | |
+| 03/18 | Web | TBD | Invité Spécial: Philippe Arteau |
 
 ## Partie 2.2
 
