@@ -8,6 +8,16 @@ title: INF600C - Accueil
 * [Plan de cours](http://syllabus.uqam.ca/files/1546976573_2019_Hiver_INF600C.html)
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
 
+## Changements à l'entente d'évaluation (2020-03-26)
+
+ - L'examen final change de forme:
+   - Il sera à faire seul, à la maison.
+   - Représentera la même charge de travail qu'un examen de 3h en classe.
+   - Format commentaires et explications de *write-up*.
+   - Sera rendu disponible à partir du 12 avril.
+   - À remettre le 26 avril avant 16h.
+ - Le double seuil (50% aux examens et 50% aux travaux pratiques) est retiré
+
 # Échéancier
 
 Note: les dates ci-dessous ne sont qu'indicatives.
@@ -35,19 +45,19 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 | Date | Sujet | Laboratoire | Note |
 | --- | --- | --- | --- |
-| 03/11 | Web | TBD | |
-| 03/18 | Web | TBD | Invité Spécial: Philippe Arteau |
+| 03/11 | Web | TBD | Correction de l'examen |
+| 03/18 | Cours cancellé | N/A | ~~Invité Spécial: Philippe Arteau~~ |
 
 ## Partie 2.2
 
 | Date | Sujet | Laboratoire | Note |
 | --- | --- | --- | --- |
-| 03/25 | Corruption mémoire | TBD | Énoncé TP2 + Invité Spécial: David Goulet |
-| 04/01 | Exploitation binaire | TBD | |
-| 04/08 | Exploitation binaire moderne | TBD | |
-| 04/15 | Contre-mesures modernes | TBD | |
-| 04/22 | Examen | Remise TP2 | |
-| 04/27 | | Remise TPS | |
+| 03/25 | Cours cancellé | N/A | ~~Invité Spécial: David Goulet~~ |
+| 04/01 | Web | Web | |
+| 04/08 | Corruption mémoire et exploitation binaire | Web | |
+| 04/15 | Exploitation binaire moderne | TBD | |
+| 04/22 | Contre-mesures modernes | TBD | |
+| 02/26 | | Remise TP2 et TPS | |
 
 ## Solutions
 
