@@ -49,6 +49,10 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 04/22 | Examen | Remise TP2 | |
 | 04/27 | | Remise TPS | |
 
+## Solutions
+
+[Indices et solutions des exercices en cours](https://info.uqam.ca/~privat/INF600C/solutions/)
+
 # Support et contacts
 
 * Professeur: <pepos-petitclerc.philippe@uqam.ca>
