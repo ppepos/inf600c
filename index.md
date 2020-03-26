@@ -11,7 +11,7 @@ title: INF600C - Accueil
 ## Changements à l'entente d'évaluation (2020-03-26)
 
  - L'examen final change de forme:
-   - Il sera à faire seul, à la maison.
+   - Il sera à faire individuellement, à la maison.
    - Représentera la même charge de travail qu'un examen de 3h en classe.
    - Format commentaires et explications de *write-up*.
    - Sera rendu disponible à partir du 12 avril.
