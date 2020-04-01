@@ -49,15 +49,15 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 03/18 | Cours cancellé | N/A | ~~Invité Spécial: Philippe Arteau~~ |
 | 03/25 | Cours cancellé | N/A | ~~Invité Spécial: David Goulet~~ |
 | 04/01 | Web | Web | [Cours en ligne](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EUfWAmPg9TJMvzMDzaNjl6YBbms6krdD-x-Z0iQ1ErovNQ?e=aaWEcs) |
-| 04/01 | Web | Web | |
+| 04/08 | Web | Web | |
 
 ## Partie 2.2
 
 | Date | Sujet | Laboratoire | Note |
 | --- | --- | --- | --- |
-| 04/08 | Corruption mémoire et exploitation binaire | Web | |
-| 04/15 | Exploitation binaire moderne | TBD | |
-| 04/22 | Contre-mesures modernes | TBD | |
+| 04/15 | Corruption mémoire et exploitation binaire | Web | |
+| 04/22 | Exploitation binaire moderne | TBD | |
+| ????? | Contre-mesures modernes | TBD | |
 | 02/26 | | Remise TP2 et TPS | |
 
 ## Solutions
