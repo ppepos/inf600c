@@ -49,7 +49,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 03/18 | Cours cancellé | N/A | ~~Invité Spécial: Philippe Arteau~~ |
 | 03/25 | Cours cancellé | N/A | ~~Invité Spécial: David Goulet~~ |
 | 04/01 | Web | Web | [Cours en ligne](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EUfWAmPg9TJMvzMDzaNjl6YBbms6krdD-x-Z0iQ1ErovNQ?e=aaWEcs) |
-| 04/08 | Web | Web | |
+| 04/08 | Web | Web | [Cours en ligne](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EehBm_Q3Q_tJq---hbS9prcBNsgsVuBbzYWS7jir4oxqcg?e=a3yC18) |
 
 ## Partie 2.2
 
