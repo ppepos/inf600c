@@ -55,7 +55,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 | Date | Sujet | Laboratoire | Note |
 | --- | --- | --- | --- |
-| 04/15 | Fin web et [Corruption mémoire et exploitation binaire](pres/05-pwn.pdf) | Web | |
+| 04/15 | Fin web et [Corruption mémoire et exploitation binaire](pres/05-pwn.pdf) | Web |[Cours en ligne](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EY_hO5HvVhpNnGyHZq4yOekBTZIx6iYKHprPctb7W4jj_g?e=dcbuuz) |
 | 04/22 | Exploitation binaire moderne et conclusion | TBD | |
 | 02/26 | | Remise TP2, TPS et examen | |
 
