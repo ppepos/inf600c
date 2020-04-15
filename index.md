@@ -45,7 +45,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 | Date | Sujet | Laboratoire | Note |
 | --- | --- | --- | --- |
-| 03/11 | Web | TBD | Correction de l'examen |
+| 03/11 | [Web](pres/04-web.pdf) | TBD | Correction de l'examen |
 | 03/18 | Cours cancellé | N/A | ~~Invité Spécial: Philippe Arteau~~ |
 
 ## Partie 2.2
@@ -53,11 +53,16 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | Date | Sujet | Laboratoire | Note |
 | --- | --- | --- | --- |
 | 03/25 | Cours cancellé | N/A | ~~Invité Spécial: David Goulet~~ |
-| 04/01 | Web | Web | |
-| 04/08 | Corruption mémoire et exploitation binaire | Web | |
-| 04/15 | Exploitation binaire moderne | TBD | |
-| 04/22 | Contre-mesures modernes | TBD | |
+| 04/01 | [Web](pres/04-web.pdf) | Web | |
+| 04/08 | Web | Web | |
+| 04/15 | [Corruption mémoire et exploitation binaire](pres/05-pwn.pdf) | Web | |
+| 04/22 | Exploitation binaire moderne et conclusion | TBD | |
 | 02/26 | | Remise TP2 et TPS | |
+
+## Partie 3 (Annulée)
+
+| XX/XX | Contre-mesures modernes |
+| XX/XX | Exploitation binaire moderne |
 
 ## Solutions
 
