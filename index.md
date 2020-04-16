@@ -48,7 +48,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 03/11 | Web | TBD | Correction de l'examen |
 | 03/18 | Cours cancellé | N/A | ~~Invité Spécial: Philippe Arteau~~ |
 | 03/25 | Cours cancellé | N/A | ~~Invité Spécial: David Goulet~~ |
-| 04/01 | Web | Web [Labo en ligne](https://uqam-my.sharepoint.com/:v:/g/personal/ej991190_ens_uqam_ca/EfxQ-Oq84vxFlE0ARPkcwMgBf8sTluFboMjJiHUThhw38Q?e=BzwNZx) | [Cours en ligne](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EUfWAmPg9TJMvzMDzaNjl6YBbms6krdD-x-Z0iQ1ErovNQ?e=aaWEcs) |
+| 04/01 | [Web](pres/04-web.pdf) | Web [Labo en ligne](https://uqam-my.sharepoint.com/:v:/g/personal/ej991190_ens_uqam_ca/EfxQ-Oq84vxFlE0ARPkcwMgBf8sTluFboMjJiHUThhw38Q?e=BzwNZx) | [Cours en ligne](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EUfWAmPg9TJMvzMDzaNjl6YBbms6krdD-x-Z0iQ1ErovNQ?e=aaWEcs) |
 | 04/08 | Web | Web [Labo en ligne](https://uqam-my.sharepoint.com/:v:/g/personal/ej991190_ens_uqam_ca/ESkmX_-zXqdAok6ZlqalnD4Bt6T6ZUjyrZ3Hh-TGf6L-7w?e=Bl2pxZ) | [Cours en ligne](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EehBm_Q3Q_tJq---hbS9prcBNsgsVuBbzYWS7jir4oxqcg?e=a3yC18) |
 
 ## Partie 2.2
