@@ -52,7 +52,7 @@ Le code inclut dans le document doit être lisible, correctement indenté, corre
 
 ## Dates et remise du TP1
 
-La limite de taille pour le document à rendre est de 10 pages. 
+La limite de taille pour le document à rendre est de 10 pages.
 
 Les instructions sont dans:
 
@@ -68,3 +68,29 @@ La remise doit être électronique (pdf) ET analogique (impression).
 	* Vos payloads et autres scripts (ceux en annexe)
 	* S’il y a aussi un Makefile et un README c’est encore mieux.
 	* Note: Indiquez sur la copie le répertoire de quel utilisateur contient les fichiers.
+
+## Dates et remise du TP1
+
+La limite de taille pour le document à rendre est de 5 pages.
+
+Les instructions sont dans:
+
+* Répertoire `/quetes/tp2`
+* Lisez le fichiers `/quetes/tp2/README` pour les instructions.
+
+La remise doit être électronique (pdf) ~~ET analogique (impression).~~ La date de la remise est fixée au dimanche 26 avril avant 17h. (La fin officielle de la session)
+
+* Numérique: dans le répertoire «`tp2_remise`» dans le home de votre utilisateur sur le serveur workspace des laboratoires, vous remettrez:
+
+	* Le fichier pdf de votre rapport (celui imprimé)
+	* Vos payloads et autres scripts (ceux en annexe)
+	* S’il y a aussi un Makefile et un README c’est encore mieux.
+	* Note: Indiquez sur la copie le répertoire de quel utilisateur contient les fichiers.
+
+## Dates et remise du TPS
+
+Les modalités sont les même que détaillées [ici](https://info.uqam.ca/~privat/INF600C/tps/) à l'exception de:
+
+ * Il est accepté de faire le TPS individuellement.
+ * Il n'y a pas de remise papier à faire.
+ * La date de remise est fixée au dimanche 26 avril avant 17h. (La fin officielle de la session)
