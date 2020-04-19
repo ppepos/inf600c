@@ -8,6 +8,7 @@ title: INF600C - Accueil
 * [Plan de cours](http://syllabus.uqam.ca/files/1546976573_2019_Hiver_INF600C.html)
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
 * [FAQ de l'examen](examen.md)
+* [Page des TPs](tps.md)
 
 ## Changements à l'entente d'évaluation (2020-03-26)
 
