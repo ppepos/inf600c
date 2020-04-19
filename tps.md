@@ -69,7 +69,7 @@ La remise doit être électronique (pdf) ET analogique (impression).
 	* S’il y a aussi un Makefile et un README c’est encore mieux.
 	* Note: Indiquez sur la copie le répertoire de quel utilisateur contient les fichiers.
 
-## Dates et remise du TP1
+## Dates et remise du TP2
 
 La limite de taille pour le document à rendre est de 5 pages.
 
