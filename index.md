@@ -58,7 +58,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | Date | Sujet | Laboratoire | Note |
 | --- | --- | --- | --- |
 | 04/15 | Fin web et [Corruption mémoire et exploitation binaire](pres/05-pwn.pdf) | Web Labo en ligne: [Partie 1](https://uqam-my.sharepoint.com/:v:/g/personal/ej991190_ens_uqam_ca/EZM84U5fi_1EhOCWEahXhM8BIYrFt_LLwqTDpeRkvoyUUA?e=eryFiS) et [Partie 2](https://uqam-my.sharepoint.com/:v:/g/personal/ej991190_ens_uqam_ca/EQaurGJ-vN1PnQZV1y22UBgBHi_sBBW2C7baVfrKFjJFBQ?e=r9uC1b) |[Cours en ligne](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EY_hO5HvVhpNnGyHZq4yOekBTZIx6iYKHprPctb7W4jj_g?e=dcbuuz) |
-| 04/22 | Exploitation binaire moderne et conclusion | TBD | |
+| 04/22 | Exploitation binaire moderne et conclusion | Shellcode et Exploitation binaire [Labo en ligne](https://uqam-my.sharepoint.com/:v:/g/personal/ej991190_ens_uqam_ca/EZYMVOd48XpOnUg7pf2NL1wByRc_NYoPQEbp1vfk12T3jg?e=g71xRQ) | |
 | 02/26 | | Remise TP2, TPS et examen | |
 
 ## Partie 3 (Annulée)
