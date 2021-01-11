@@ -4,77 +4,50 @@ title: INF600C - Accueil
 
 # Informations importantes
 
-* [Horaires et locaux](http://www.etudier.uqam.ca/cours?sigle=INF600C#Horaire)
-* [Plan de cours](http://syllabus.uqam.ca/files/1546976573_2019_Hiver_INF600C.html)
+* [Horaires ~~et locaux~~](http://www.etudier.uqam.ca/cours?sigle=INF600C#Horaire)
+* [Plan de cours (Version 2019 pour le moment)](http://syllabus.uqam.ca/files/1546976573_2019_Hiver_INF600C.html)
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
-* [FAQ de l'examen](examen.md)
 * [Page des TPs](tps.md)
-
-## Changements à l'entente d'évaluation (2020-03-26)
-
- - L'examen final change de forme:
-   - Il sera à faire individuellement, à la maison.
-   - Représentera la même charge de travail qu'un examen de 3h en classe.
-   - Format commentaires et explications de *write-up*.
-   - Sera rendu disponible à partir du 12 avril.
-   - À remettre le 26 avril avant 16h.
- - Le double seuil (50% aux examens et 50% aux travaux pratiques) est retiré
 
 # Échéancier
 
 Note: les dates ci-dessous ne sont qu'indicatives.
 
-## Partie 1.1
+## Partie 1
 
-| Date | Sujet | Laboratoire | Note |
-| --- | --- | --- | --- |
-| 01/08 | [Introduction](pres/01-intro.pdf) | Aucun | |
-| 01/15 | [Exploitation système](pres/02-systeme.pdf) | Introduction et E.S. | |
-| 01/22 | Exploitation système | E.S. | |
-| 01/29 | Exploitation système | E.S. | [Distribution du sujet TP1](tps.md) |
+| Date  | Sujet                        | Laboratoire | Notes          | Extras                                          |
+|-------|------------------------------|-------------|----------------|-------------------------------------------------|
+| 01/20 | Introduction                 |             |                | Montréhack (20 jan 19h)                         |
+| 01/27 | Exploitation système         |             |                |                                                 |
+| 02/03 | Exploitation système         |             |                |                                                 |
+| 02/10 | Exploitation système         |             |                |                                                 |
+| 02/17 | Web                          |             |                | Montréhack (17 fév 19h)                         |
+| 02/24 | Web                          |             |                |                                                 |
+| 03/02 | N/A                          | N/A         | N/A            |                                                 |
+| 03/09 | Web                          |             | Présentation 1 | UTCTF (13 mars)                                 |
 
-## Partie 1.2
-
-| Date | Sujet | Laboratoire | Note |
-| --- | --- | --- | --- |
-| 02/05 | Fin E.S. + [Rétro-Ingénierie](pres/03-rev.pdf) Rétro-Ingénierie | Rétro-Ingénierie | |
-| 02/12 | Rétro-Ingénierie | Rétro-Ingénierie | Distribution du TP Spécial |
-| 02/19 | Révision | Révision | Invité Spécial: Hugo Genesse ([slides](pres/hugo.pdf)) |
-| 02/26 | Relâche | Relâche | |
-| 03/04 | Examen | TBD | Remise TP1 |
-
-## Partie 2.1
-
-| Date | Sujet | Laboratoire | Note |
-| --- | --- | --- | --- |
-| 03/11 | Web | TBD | Correction de l'examen |
-| 03/18 | Cours cancellé | N/A | ~~Invité Spécial: Philippe Arteau~~ |
-| 03/25 | Cours cancellé | N/A | ~~Invité Spécial: David Goulet~~ |
-| 04/01 | [Web](pres/04-web.pdf) | Web [Labo en ligne](https://uqam-my.sharepoint.com/:v:/g/personal/ej991190_ens_uqam_ca/EfxQ-Oq84vxFlE0ARPkcwMgBf8sTluFboMjJiHUThhw38Q?e=BzwNZx) | [Cours en ligne](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EUfWAmPg9TJMvzMDzaNjl6YBbms6krdD-x-Z0iQ1ErovNQ?e=aaWEcs) |
-| 04/08 | Web | Web [Labo en ligne](https://uqam-my.sharepoint.com/:v:/g/personal/ej991190_ens_uqam_ca/ESkmX_-zXqdAok6ZlqalnD4Bt6T6ZUjyrZ3Hh-TGf6L-7w?e=Bl2pxZ) | [Cours en ligne](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EehBm_Q3Q_tJq---hbS9prcBNsgsVuBbzYWS7jir4oxqcg?e=a3yC18) |
-
-## Partie 2.2
-
-| Date | Sujet | Laboratoire | Note |
-| --- | --- | --- | --- |
-| 04/15 | Fin web et [Corruption mémoire et exploitation binaire](pres/05-pwn.pdf) | Web Labo en ligne: [Partie 1](https://uqam-my.sharepoint.com/:v:/g/personal/ej991190_ens_uqam_ca/EZM84U5fi_1EhOCWEahXhM8BIYrFt_LLwqTDpeRkvoyUUA?e=eryFiS) et [Partie 2](https://uqam-my.sharepoint.com/:v:/g/personal/ej991190_ens_uqam_ca/EQaurGJ-vN1PnQZV1y22UBgBHi_sBBW2C7baVfrKFjJFBQ?e=r9uC1b) |[Cours en ligne](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EY_hO5HvVhpNnGyHZq4yOekBTZIx6iYKHprPctb7W4jj_g?e=dcbuuz) |
-| 04/22 | Exploitation binaire moderne et conclusion | TBD | |
-| 02/26 | | Remise TP2, TPS et examen | |
-
-## Partie 3 (Annulée)
-
-| XX/XX | Contre-mesures modernes |
-| XX/XX | Exploitation binaire moderne |
+| Date  | Sujet                        | Laboratoire | Notes          | Extras                                          |
+|-------|------------------------------|-------------|----------------|-------------------------------------------------|
+| 03/16 | Examen intra                 |             |                | Montréhack (16 mars 19h), PoseidonCTF (20 mars) |
+| 03/23 | Rétro-ingénierie             |             |                | VolgaCTF (27 mars)                              |
+| 03/30 | Rétro-ingénierie             |             | Présentation 2 |                                                 |
+| 04/06 | Exploitation binaire         |             |                | Midnight Sun CTF (9 avr)                        |
+| 04/13 | Exploitation binaire         |             | Présentation 3 | PlaidCTF (16 avr)                               |
+| 04/20 | Contre-mesures modernes      |             |                | Montréhack (20 avr 19h)                         |
+| 04/27 | Exploitation binaire moderne |             |                |                                                 |
+| 05/04 | Examen final                 |             |                | Northsec (20-28 mai)                            |
 
 ## Solutions
 
-[Indices et solutions des exercices en cours](https://info.uqam.ca/~privat/INF600C/solutions/)
+...
 
 # Support et contacts
 
 * Professeur: <pepos-petitclerc.philippe@uqam.ca>
-* Démonstrateurs et support: [Alexandre Côté Cyr](https://ageei-uqam.slack.com/messages/@barberousse) et [Luis-Gaylor Nobre](https://ageei-uqam.slack.com/messages/@lgnobre)
-* Canal de discussion: <https://ageei-uqam.slack.com/messages/inf600c/details/>
+* Démonstrateurs et support: [Alexandre Côté Cyr](https://ageei-uqam.slack.com/messages/@barberousse)
+* Canal de discussion officiel: [Mattermost Officiel](https://mattermost.info.uqam.ca/forum/channels/inf600c)
+* Canal de discussion officieux: Il y a un canal sur le slack de l'asso étudiante.
+
 
 
 # Laboratoires
