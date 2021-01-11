@@ -26,6 +26,8 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 03/02 | N/A                          | N/A         | N/A            |                                                 |
 | 03/09 | Web                          |             | Présentation 1 | UTCTF (13 mars)                                 |
 
+## Partie 2
+
 | Date  | Sujet                        | Laboratoire | Notes          | Extras                                          |
 |-------|------------------------------|-------------|----------------|-------------------------------------------------|
 | 03/16 | Examen intra                 |             |                | Montréhack (16 mars 19h), PoseidonCTF (20 mars) |
@@ -47,8 +49,6 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 * Démonstrateurs et support: [Alexandre Côté Cyr](https://ageei-uqam.slack.com/messages/@barberousse)
 * Canal de discussion officiel: [Mattermost Officiel](https://mattermost.info.uqam.ca/forum/channels/inf600c)
 * Canal de discussion officieux: Il y a un canal sur le slack de l'asso étudiante.
-
-
 
 # Laboratoires
 
