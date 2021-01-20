@@ -18,7 +18,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 | Date  | Sujet                        | Laboratoire | Notes          | Extras                                          |
 |-------|------------------------------|-------------|----------------|-------------------------------------------------|
-| 01/20 | Introduction ([Exercices](cours/intro.md)) | N/A         |                | Montréhack (20 jan 19h)                         |
+| 01/20 | Introduction ([Exercices](cours/intro.md)) | N/A         |                | [Montréhack](https://montrehack.ca/) (27 jan 19h)                         |
 | 01/27 | Exploitation système         |             |                |                                                 |
 | 02/03 | Exploitation système         |             |                |                                                 |
 | 02/10 | Exploitation système         |             |                |                                                 |
