@@ -47,7 +47,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 # Support et contacts
 
 * Professeur: <pepos-petitclerc.philippe@uqam.ca>
-* Démonstrateurs et support: [Alexandre Côté Cyr](https://ageei-uqam.slack.com/messages/@barberousse)
+* Démonstrateurs et support: [Alexandre Côté Cyr](https://ageei-uqam.slack.com/messages/@barberousse) et [Luis Gaylor Nobre](https://ageei-uqam.slack.com/messages/@lgnobre)
 * Canal de discussion officiel: [Mattermost Officiel](https://mattermost.info.uqam.ca/forum/channels/inf600c)
 * Canal de discussion officieux: Il y a un canal sur le slack de l'asso étudiante.
 
