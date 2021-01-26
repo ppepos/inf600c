@@ -6,6 +6,8 @@ title: INF600C - Accueil
 
 * [Horaires ~~et locaux~~](http://www.etudier.uqam.ca/cours?sigle=INF600C#Horaire)
 * [Local virtuel (Conférence Zoom)](https://uqam.zoom.us/j/81228469094)
+  * [Local virtuel pour les labs](https://uqam.zoom.us/j/83678440528)
+  * Passcode: **verkaranta**
 * [Plan de cours](http://info.uqam.ca/plan_cours/Hiver%202021/INF600C.html)
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
 * [Page des TPs](tps.md)
