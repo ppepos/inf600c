@@ -20,8 +20,8 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 | Date  | Sujet                        | Laboratoire | Notes          | Extras                                          |
 |-------|------------------------------|-------------|----------------|-------------------------------------------------|
-| 01/20 | Introduction ([Exercices](cours/intro.md), [présentation](pres/01-intro.pdf), [présentation et notes](pres/01-intro.notes.pdf)) | N/A         |                | Montréhack (20 jan 19h)                         |
-| 01/27 | Exploitation système ([Présentation](pres/02-systeme.pdf), [présentation et notes](pres/02-systeme.notes.pdf)) | [01-intro](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EQdiRYEvLM5JucgeR0zUujwBN7BZmXUTN4WUdli3kGuigQ?e=4weXuc) |                |                                                 |
+| 01/20 | [Introduction](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/Ebz0Fy4WovlIo_EilzxNv3QBEpeJEgsjtHUPvNduJtz0Og) ([Exercices](cours/intro.md), [présentation](pres/01-intro.pdf), [présentation annotable](pres/01-intro.notes.pdf)) | N/A         |                |                          |
+| 01/27 | Exploitation système ([Présentation](pres/02-systeme.pdf), [présentation annotable](pres/02-systeme.notes.pdf)) | [01-intro](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EQdiRYEvLM5JucgeR0zUujwBN7BZmXUTN4WUdli3kGuigQ?e=4weXuc) |                | Montréhack (27 jan 19h)                                                |
 | 02/03 | Exploitation système         |             |                |                                                 |
 | 02/10 | Exploitation système         |             |                |                                                 |
 | 02/17 | Web                          |             |                | Montréhack (17 fév 19h)                         |
