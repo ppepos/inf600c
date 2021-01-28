@@ -6,6 +6,8 @@ title: INF600C - Accueil
 
 * [Horaires ~~et locaux~~](http://www.etudier.uqam.ca/cours?sigle=INF600C#Horaire)
 * [Local virtuel (Conférence Zoom)](https://uqam.zoom.us/j/81228469094)
+  * [Local virtuel pour les labs](https://uqam.zoom.us/j/83678440528)
+  * Passcode: **verkaranta**
 * [Plan de cours](http://info.uqam.ca/plan_cours/Hiver%202021/INF600C.html)
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
 * [Page des TPs](tps.md)
@@ -19,7 +21,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | Date  | Sujet                        | Laboratoire | Notes          | Extras                                          |
 |-------|------------------------------|-------------|----------------|-------------------------------------------------|
 | 01/20 | Introduction ([Exercices](cours/intro.md), [présentation](pres/01-intro.pdf), [présentation et notes](pres/01-intro.notes.pdf)) | N/A         |                | Montréhack (20 jan 19h)                         |
-| 01/27 | Exploitation système ([Présentation](pres/02-systeme.pdf), [présentation et notes](pres/02-systeme.notes.pdf))         |             |                |                                                 |
+| 01/27 | Exploitation système ([Présentation](pres/02-systeme.pdf), [présentation et notes](pres/02-systeme.notes.pdf)) | [01-intro](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EQdiRYEvLM5JucgeR0zUujwBN7BZmXUTN4WUdli3kGuigQ?e=4weXuc) |                |                                                 |
 | 02/03 | Exploitation système         |             |                |                                                 |
 | 02/10 | Exploitation système         |             |                |                                                 |
 | 02/17 | Web                          |             |                | Montréhack (17 fév 19h)                         |
