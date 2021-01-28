@@ -21,7 +21,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | Date  | Sujet                        | Laboratoire | Notes          | Extras                                          |
 |-------|------------------------------|-------------|----------------|-------------------------------------------------|
 | 01/20 | Introduction ([Exercices](cours/intro.md)) | N/A         |                | [Montréhack](https://montrehack.ca/) (27 jan 19h)                         |
-| 01/27 | Exploitation système         |             |                |                                                 |
+| 01/27 | Exploitation système         | [01-intro](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EQdiRYEvLM5JucgeR0zUujwBN7BZmXUTN4WUdli3kGuigQ?e=4weXuc)            |                |                                                 |
 | 02/03 | Exploitation système         |             |                |                                                 |
 | 02/10 | Exploitation système         |             |                |                                                 |
 | 02/17 | Web                          |             |                | Montréhack (17 fév 19h)                         |
