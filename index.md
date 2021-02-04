@@ -22,7 +22,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 |-------|------------------------------|-------------|----------------|-------------------------------------------------|
 | 01/20 | [Introduction](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/Ebz0Fy4WovlIo_EilzxNv3QBEpeJEgsjtHUPvNduJtz0Og) ([Exercices](cours/intro.md), [présentation](pres/01-intro.pdf), [présentation annotable](pres/01-intro.notes.pdf)) | N/A         |                |                          |
 | 01/27 | [Introduction suite](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EUc0adhJiPBHjL6G8FWk8F4BzsTUdL-YtFK_ZEd0LTS_Og?e=zUVKu0), [Exploitation système](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/ETPgJ28TGU1Gi_GWxngsLbEBYTUvSZavWcrxfgI6NAf-og?e=AcSNK1) ([Présentation](pres/02-systeme.pdf), [présentation annotable](pres/02-systeme.notes.pdf)) | [01-intro](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EQdiRYEvLM5JucgeR0zUujwBN7BZmXUTN4WUdli3kGuigQ?e=4weXuc) |                | Montréhack (27 jan 19h)                                                |
-| 02/03 | Exploitation système         |             |                |                                                 |
+| 02/03 | Exploitation système         | [01-intro Suite](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EbWqGI8Dm-FAq7mnF-9Ax2kBaMOKT0GcuV4ziUT2vbddyA?e=nThqu0)               |                |                                                 |
 | 02/10 | Exploitation système         |             |                |                                                 |
 | 02/17 | Web                          |             |                | Montréhack (17 fév 19h)                         |
 | 02/24 | Web                          |             |                |                                                 |
@@ -35,7 +35,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | Date  | Sujet                        | Laboratoire | Notes          | Extras                                          |
 |-------|------------------------------|-------------|----------------|-------------------------------------------------|
 | 03/23 | Rétro-ingénierie             |             |                | VolgaCTF (27 mars)                              |
-| 03/30 | Rétro-ingénierie             |             | Présentation 2 |                                                 |
+| 03/30 | Rétro-ingénierie             |             | Présentation 2 | [ångstromCTF (2-7 Avril)](https://angstromctf.com/)|
 | 04/06 | Exploitation binaire         |             |                | Midnight Sun CTF (9 avr)                        |
 | 04/13 | Exploitation binaire         |             | Présentation 3 | PlaidCTF (16 avr)                               |
 | 04/20 | Contre-mesures modernes      |             |                | Montréhack (20 avr 19h)                         |
