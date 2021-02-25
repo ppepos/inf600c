@@ -10,7 +10,7 @@ L'équipe doit rester la même pour tous les exercices d'un même TP.
 Pour chaque TP, une liste d'exercices à réaliser est fournie.
 L'accès aux exercices se fait par la même procédure que pour les laboratoires.
 
-Pour vous aider, nous fournissons un [exemple de Write-up pour un exercice.](https://docs.google.com/document/d/1CrveH4yntokKkUCuHt3c8ooNZl7I09YC4sELFwDzs3Q/edit)
+Pour vous aider, nous fournissons un [exemple de writeup pour un exercice](https://uqam-my.sharepoint.com/:w:/g/personal/hj691097_ens_uqam_ca/ET4VyETW9JVDhZ-URSOjhigB8wHyTn0uLBNIVXUCPkZ4Kg?e=UjxlSL).
 
 ### Document à produire
 
