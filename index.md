@@ -27,21 +27,21 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 02/10 | [Exploitation système](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/ESmfaLQDL_NOtVhIgPwTqWQBRGuxwSdJjORY2-XARY5XXg?e=v5r9jG) ([Matière async.](cours/systeme.md))         | [02-sys](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/Ebolg7QYGXdEvFq0W_LsEcwBs8HnIrtN8kqDtMK90oyRZQ?e=mjGLda)   |                |                                                 |
 | 02/17 | Web ([Exercices](cours/web.md)) | [02-sys Suite](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EdSL4LpuREBFnEdA0HNziOEBqRn7Mfa7N1Gy0mBtwX8Mqw?e=pupEyU)            |                | Montréhack (17 fév 19h)                         |
 | 02/24 | Web                          |             |                |                                                 |
-| 03/02 | N/A                          | N/A         | Semaine de lecture |                                             |
-| 03/09 | Web                          |             | Présentation 1 | UTCTF (13 mars)                                 |
-| 03/16 | Examen intra                 |             |                | Montréhack (16 mars 19h), PoseidonCTF (20 mars) |
+| 03/03 | N/A                          | N/A         | Semaine de lecture |                                             |
+| 03/10 | Web                          |             | Présentation 1 | UTCTF (13 mars)                                 |
+| 03/17 | Examen intra                 |             |                | Montréhack (16 mars 19h), PoseidonCTF (20 mars) |
 
 ## Partie 2
 
 | Date  | Sujet                        | Laboratoire | Notes          | Extras                                          |
 |-------|------------------------------|-------------|----------------|-------------------------------------------------|
-| 03/23 | Rétro-ingénierie             |             |                | VolgaCTF (27 mars)                              |
-| 03/30 | Rétro-ingénierie             |             | Présentation 2 | [ångstromCTF (2-7 Avril)](https://angstromctf.com/)|
-| 04/06 | Exploitation binaire         |             |                | Midnight Sun CTF (9 avr)                        |
-| 04/13 | Exploitation binaire         |             | Présentation 3 | PlaidCTF (16 avr)                               |
-| 04/20 | Contre-mesures modernes      |             |                | Montréhack (20 avr 19h)                         |
-| 04/27 | Exploitation binaire moderne |             |                |                                                 |
-| 05/04 | Examen final                 |             |                | Northsec (20-28 mai)                            |
+| 03/24 | Rétro-ingénierie             |             |                | VolgaCTF (27 mars)                              |
+| 03/31 | Rétro-ingénierie             |             | Présentation 2 | [ångstromCTF (2-7 Avril)](https://angstromctf.com/)|
+| 04/07 | Exploitation binaire         |             |                | Midnight Sun CTF (9 avr)                        |
+| 04/14 | Exploitation binaire         |             | Présentation 3 | PlaidCTF (16 avr)                               |
+| 04/21 | Contre-mesures modernes      |             |                | Montréhack (20 avr 19h)                         |
+| 04/28 | Exploitation binaire moderne |             |                |                                                 |
+| 05/05 | Examen final                 |             |                | Northsec (20-28 mai)                            |
 
 ## Solutions
 
