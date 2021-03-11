@@ -27,7 +27,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 02/17 | [Web](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EeCaMgWKnhxDrwKYxyFw8nwBQ9YC-5wDxmInq6HX9npPbQ?e=BpybpX) ([Exercices](cours/web.md)) | [02-sys Suite](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EdSL4LpuREBFnEdA0HNziOEBqRn7Mfa7N1Gy0mBtwX8Mqw?e=pupEyU)            |                | Montréhack (17 fév 19h)                         |
 | 02/24 | [Web Suite](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EXE5ecYCQvZLgn2Xo7Bb5LUBI9FtFSEibPLQu38NQvWOTA?e=S9JsNc) |             |                |                                                 |
 | 03/03 | N/A                          | N/A         | Semaine de lecture |                                             |
-| 03/10 | Web                          |             | Présentation 1 | UTCTF (13 mars)                                 |
+| 03/10 | Web                          | [03-web Suite](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EbTlL-gEUMJCrH2XMlBGTskBunmSib5TPHqtaG0CR9uy5w?e=QcqJSg)   | Présentation 1 | UTCTF (13 mars)                                 |
 | 03/17 | Examen intra                 |             |                | Montréhack (16 mars 19h), PoseidonCTF (20 mars) |
 
 ## Partie 2
