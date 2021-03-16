@@ -26,7 +26,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 01/27 | Introduction suite ([Présentation](pres/02-systeme.pdf), [présentation annotable](pres/02-systeme.notes.pdf)) |  |                | Montréhack (27 jan 19h)                                                |
 | 02/03 | Exploitation système         |                |                |                                                 |
 | 02/10 | Exploitation système ([Matière async.](cours/systeme.md))         |    |                |                                                 |
-| 02/17 | Web ([Exercices](cours/web.md)) |             |                | Montréhack (17 fév 19h)                         |
+| 02/17 | Web ([Exercices](cours/web.md), [présentation](pres/03-web.pdf), [présentation annotable](pres/03-web.notes.pdf)) |             |                | Montréhack (17 fév 19h)                         |
 | 02/24 | Web                          |             |                |                                                 |
 | 03/02 | N/A                          | N/A         | Semaine de lecture |                                             |
 | 03/09 | Web                          |             | Présentation 1 | UTCTF (13 mars)                                 |
