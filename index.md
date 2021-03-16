@@ -11,6 +11,8 @@ title: INF600C - Accueil
 * [Plan de cours](http://info.uqam.ca/plan_cours/Hiver%202021/INF600C.html)
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
 * [Page des TPs](tps.md)
+* [Page des videos](videos.md)
+* [Exemple de writeup](https://uqam-my.sharepoint.com/:w:/g/personal/hj691097_ens_uqam_ca/ET4VyETW9JVDhZ-URSOjhigB8wHyTn0uLBNIVXUCPkZ4Kg?e=UjxlSL)
 
 # Échéancier
 
@@ -20,15 +22,15 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 | Date  | Sujet                        | Laboratoire | Notes          | Extras                                          |
 |-------|------------------------------|-------------|----------------|-------------------------------------------------|
-| 01/20 | [Introduction](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/Ebz0Fy4WovlIo_EilzxNv3QBEpeJEgsjtHUPvNduJtz0Og) ([Exercices](cours/intro.md), [présentation](pres/01-intro.pdf), [présentation annotable](pres/01-intro.notes.pdf)) | N/A         |                |                          |
-| 01/27 | [Introduction suite](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EUc0adhJiPBHjL6G8FWk8F4BzsTUdL-YtFK_ZEd0LTS_Og?e=zUVKu0), [Exploitation système](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/ETPgJ28TGU1Gi_GWxngsLbEBYTUvSZavWcrxfgI6NAf-og?e=AcSNK1) ([Présentation](pres/02-systeme.pdf), [présentation annotable](pres/02-systeme.notes.pdf)) | [01-intro](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EQdiRYEvLM5JucgeR0zUujwBN7BZmXUTN4WUdli3kGuigQ?e=4weXuc) |                | Montréhack (27 jan 19h)                                                |
-| 02/03 | [Exploitation système](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EZYlj0lNfi1LqLDQRXCIHdABkdkgCgB5tfIN5RM3Z3YQCA?e=fC7AWU)         | [01-intro Suite](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EbWqGI8Dm-FAq7mnF-9Ax2kBaMOKT0GcuV4ziUT2vbddyA?e=nThqu0)               |                |                                                 |
-| 02/10 | [Exploitation système](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/ESmfaLQDL_NOtVhIgPwTqWQBRGuxwSdJjORY2-XARY5XXg?e=v5r9jG) ([Matière async.](cours/systeme.md))         | [02-sys](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/Ebolg7QYGXdEvFq0W_LsEcwBs8HnIrtN8kqDtMK90oyRZQ?e=mjGLda)   |                |                                                 |
-| 02/17 | [Web](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EeCaMgWKnhxDrwKYxyFw8nwBQ9YC-5wDxmInq6HX9npPbQ?e=BpybpX) ([Exercices](cours/web.md)) | [02-sys Suite](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EdSL4LpuREBFnEdA0HNziOEBqRn7Mfa7N1Gy0mBtwX8Mqw?e=pupEyU)            |                | Montréhack (17 fév 19h)                         |
-| 02/24 | [Web Suite](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EXE5ecYCQvZLgn2Xo7Bb5LUBI9FtFSEibPLQu38NQvWOTA?e=S9JsNc) |             |                |                                                 |
-| 03/03 | N/A                          | N/A         | Semaine de lecture |                                             |
-| 03/10 | Web                          | [03-web Suite](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EbTlL-gEUMJCrH2XMlBGTskBunmSib5TPHqtaG0CR9uy5w?e=QcqJSg)   | Présentation 1 | UTCTF (13 mars)                                 |
-| 03/17 | Examen intra                 |             |                | Montréhack (16 mars 19h), PoseidonCTF (20 mars) |
+| 01/20 | Introduction ([Exercices](cours/intro.md), [présentation](pres/01-intro.pdf), [présentation annotable](pres/01-intro.notes.pdf)) | N/A         |                |                          |
+| 01/27 | Introduction suite ([Présentation](pres/02-systeme.pdf), [présentation annotable](pres/02-systeme.notes.pdf)) |  |                | Montréhack (27 jan 19h)                                                |
+| 02/03 | Exploitation système         |                |                |                                                 |
+| 02/10 | Exploitation système ([Matière async.](cours/systeme.md))         |    |                |                                                 |
+| 02/17 | Web ([Exercices](cours/web.md)) |             |                | Montréhack (17 fév 19h)                         |
+| 02/24 | Web                          |             |                |                                                 |
+| 03/02 | N/A                          | N/A         | Semaine de lecture |                                             |
+| 03/09 | Web                          |             | Présentation 1 | UTCTF (13 mars)                                 |
+| 03/16 | Examen intra                 |             |                | Montréhack (16 mars 19h), PoseidonCTF (20 mars) |
 
 ## Partie 2
 
