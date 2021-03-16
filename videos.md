@@ -20,3 +20,5 @@
 1. [Introduction](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EQdiRYEvLM5JucgeR0zUujwBN7BZmXUTN4WUdli3kGuigQ?e=4weXuc)
 2. [Introduction (suite)](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EbWqGI8Dm-FAq7mnF-9Ax2kBaMOKT0GcuV4ziUT2vbddyA?e=nThqu0)
 3. [Exploitation système](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/Ebolg7QYGXdEvFq0W_LsEcwBs8HnIrtN8kqDtMK90oyRZQ?e=mjGLda)
+4. [Exploitation système (suite)](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EdSL4LpuREBFnEdA0HNziOEBqRn7Mfa7N1Gy0mBtwX8Mqw?e=pupEyU)
+4. [Exploitation web](ihttps://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EbTlL-gEUMJCrH2XMlBGTskBunmSib5TPHqtaG0CR9uy5w?e=QcqJSg)
