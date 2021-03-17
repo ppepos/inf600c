@@ -91,7 +91,7 @@ chromium --proxy-pac-url=http://info.uqam.ca/~privat/INF600C/inf600c.pac "http:/
 
 ### Configuration de Burp
 
-Le logiciel [Burp](https://portswigger.net/burp/communitydownload) peut être utile pour la partie Web. Ce [document](https://uqam-my.sharepoint.com/personal/cote_cyr_alexandre_uqam_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcote%5Fcyr%5Falexandre%5Fuqam%5Fca%2FDocuments%2FINF600C%2DH2021%2FINF600C%20%2D%20Setup%20Burp%20Proxy%2Epdf&parent=%2Fpersonal%2Fcote%5Fcyr%5Falexandre%5Fuqam%5Fca%2FDocuments%2FINF600C%2DH2021) vous explique comment le configurer avec le proxy du cours.
+Le logiciel [Burp](https://portswigger.net/burp/communitydownload) peut être utile pour la partie Web. Ce [document](https://uqam-my.sharepoint.com/:b:/g/personal/cote_cyr_alexandre_uqam_ca/EXYnhHzaGYpAooX7f4yv1wUBtCooEjnIWWU8GiUE5SkADQ?e=nsKBrM) vous explique comment le configurer avec le proxy du cours.
 
 # Ressources
 
