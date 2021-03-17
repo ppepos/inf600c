@@ -10,9 +10,9 @@ title: INF600C - Accueil
   * Passcode: **verkaranta**
 * [Plan de cours](http://info.uqam.ca/plan_cours/Hiver%202021/INF600C.html)
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
-* [Page des TPs](tps.md)
+* [Page des examens](examen.md)
 * [Page des videos](videos.md)
-* [Exemple de writeup](https://uqam-my.sharepoint.com/:w:/g/personal/hj691097_ens_uqam_ca/ET4VyETW9JVDhZ-URSOjhigB8wHyTn0uLBNIVXUCPkZ4Kg?e=UjxlSL)
+* [Page des TPs](tps.md)
 
 # Échéancier
 
