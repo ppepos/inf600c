@@ -28,9 +28,9 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 02/10 | Exploitation système ([Matière async.](cours/systeme.md))         |    |                |                                                 |
 | 02/17 | Web ([Exercices](cours/web.md), [présentation](pres/03-web.pdf), [présentation annotable](pres/03-web.notes.pdf)) |             |                | Montréhack (17 fév 19h)                         |
 | 02/24 | Web                          |             |                |                                                 |
-| 03/02 | N/A                          | N/A         | Semaine de lecture |                                             |
-| 03/09 | Web                          |             | Présentation 1 | UTCTF (13 mars)                                 |
-| 03/16 | Examen intra                 |             |                | Montréhack (16 mars 19h), PoseidonCTF (20 mars) |
+| 03/03 | N/A                          | N/A         | Semaine de lecture |                                             |
+| 03/10 | Web                          |             | Présentation 1 | UTCTF (13 mars)                                 |
+| 03/17 | Examen intra                 |             |                | Montréhack (16 mars 19h), PoseidonCTF (20 mars) |
 
 ## Partie 2
 
