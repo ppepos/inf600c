@@ -58,7 +58,9 @@ print:   SUBSP   2,i
 ```
 </details>
 
-## PIN 3 Ignorez le PIN et obtenez le flag dans chacun des trois programmes suivants:
+## PIN 3
+
+Ignorez le PIN et obtenez le flag dans chacun des trois programmes suivants:
 
  - [pin3.pepo](bin/pin3.pepo)
  - [pin3](bin/pin3)
