@@ -36,7 +36,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 | Date  | Sujet                        | Laboratoire | Notes          | Extras                                          |
 |-------|------------------------------|-------------|----------------|-------------------------------------------------|
-| 03/24 | Rétro-ingénierie             |             |                | VolgaCTF (27 mars)                              |
+| 03/24 | Rétro-ingénierie ([Exercices](cours/rev.md)) |             |                | VolgaCTF (27 mars)                              |
 | 03/31 | Rétro-ingénierie             |             | Présentation 2 | [ångstromCTF (2-7 Avril)](https://angstromctf.com/)|
 | 04/07 | Exploitation binaire         |             |                | Midnight Sun CTF (9 avr)                        |
 | 04/14 | Exploitation binaire         |             | Présentation 3 | PlaidCTF (16 avr)                               |
