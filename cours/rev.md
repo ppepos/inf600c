@@ -20,8 +20,9 @@ C0 FE FE 16 00 0D 70 65 70 38 00 41 00 06 00 0B 58
 
 Désassemblez le programme Pep/8 suivant puis trouvez le bon PIN: [pin2](bin/pin2.pepo)
 
-<details>
-  <summary>Réponse (spoiler)</summary>
+<details><summary>Réponse (spoiler)</summary>
+<p>
+  
 ```
          STRO    pin,d       
          DECI    n,d
@@ -56,6 +57,8 @@ print:   SUBSP   2,i
          CHARO   '\n',i
          RET2                
 ```
+
+</p>
 </details>
 
 ## PIN 3
