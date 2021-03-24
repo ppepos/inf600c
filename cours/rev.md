@@ -22,8 +22,8 @@ Désassemblez le programme Pep/8 suivant puis trouvez le bon PIN: [pin2](bin/pin
 
 <details><summary>Réponse (spoiler)</summary>
 <p>
-  
-```
+
+<pre>
          STRO    pin,d       
          DECI    n,d
          LDA     1616,i      
@@ -56,18 +56,32 @@ print:   SUBSP   2,i
          CHARO   '}',i       
          CHARO   '\n',i
          RET2                
-```
+n:       .BLOCK  2           
+pin:     .ASCII  "PIN:\x00"  
+flag:    .ASCII  "INF600C{\x00" 
+err:     .ASCII  "Erreur!\n\x00"
+         .END
+</pre>
 
 </p>
 </details>
 
+### En vrai
+
+Trouvez également les bons PINs pour les versions 32 et 64 bits suivantes:
+
+ - [pin2](bin/pin2)
+ - [pin2_64](bin/pin2_64)
+
 ## PIN 3
 
-Ignorez le PIN et obtenez le flag dans chacun des trois programmes suivants:
+Ignorez le PIN et obtenez le flag dans chacun des deux programmes suivants:
 
  - [pin3.pepo](bin/pin3.pepo)
  - [pin3](bin/pin3)
  - [pin3_64](bin/pin3_64)
+
+Faites l'effort de soulever les différences dans le code du main entre x86 et x86_64.
 
 ## Aide gdb/peda
 
