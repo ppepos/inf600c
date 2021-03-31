@@ -40,6 +40,7 @@ Toujours avec le programme `pass`, obtenez le flag 3 en appelant la fonction `ge
 
 <details><summary>Indice</summary>
 <p>Souvenez-vous que l'adresse de retour de la fonction (adresse de la prochaine instruction à exécuter après la fin de la fonction) est empilée lors de l'appel de la fonction.</p>
+</details>
 
 ## Devoir
 
