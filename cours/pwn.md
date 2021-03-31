@@ -32,6 +32,7 @@ int checkpass(void) {
 
 <details><summary>Indice</summary>
 <p>Attention au boutisme.</p>
+</details>
 
 ## Pass 3
 
