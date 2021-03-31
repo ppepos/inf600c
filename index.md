@@ -12,6 +12,7 @@ title: INF600C - Accueil
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
 * [Page des examens](examen.md)
 * [Page des videos](videos.md)
+* [Slides](https://github.com/ppepos/inf600c/tree/master/pres)
 * [Page des TPs](tps.md)
 
 # Échéancier
@@ -22,14 +23,14 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 | Date  | Sujet                        | Laboratoire | Notes          | Extras                                          |
 |-------|------------------------------|-------------|----------------|-------------------------------------------------|
-| 01/20 | Introduction ([Exercices](cours/intro.md), [présentation](pres/01-intro.pdf), [présentation annotable](pres/01-intro.notes.pdf)) | N/A         |                |                          |
-| 01/27 | Introduction suite ([Présentation](pres/02-systeme.pdf), [présentation annotable](pres/02-systeme.notes.pdf)) |  |                | Montréhack (27 jan 19h)                                                |
+| 01/20 | Introduction ([Exercices](cours/intro.md)) | N/A         |                |                          |
+| 01/27 | Introduction suite |  |                | Montréhack (27 jan 19h)                                                |
 | 02/03 | Exploitation système         |                |                |                                                 |
 | 02/10 | Exploitation système ([Matière async.](cours/systeme.md))         |    |                |                                                 |
-| 02/17 | Web ([Exercices](cours/web.md), [présentation](pres/03-web.pdf), [présentation annotable](pres/03-web.notes.pdf)) |             |                | Montréhack (17 fév 19h)                         |
+| 02/17 | Web ([Exercices](cours/web.md)) |             |                | Montréhack (17 fév 19h)                         |
 | 02/24 | Web                          |             |                |                                                 |
 | 03/02 | N/A                          | N/A         | Semaine de lecture |                                             |
-| 03/09 | Web                          |             | Présentation 1 | UTCTF (13 mars)                                 |
+| 03/09 | Web                          |             |                | UTCTF (13 mars)                                 |
 | 03/16 | Examen intra                 |             |                | Montréhack (16 mars 19h), PoseidonCTF (20 mars) |
 
 ## Partie 2
@@ -37,9 +38,9 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | Date  | Sujet                        | Laboratoire | Notes          | Extras                                          |
 |-------|------------------------------|-------------|----------------|-------------------------------------------------|
 | 03/24 | Rétro-ingénierie ([Exercices](cours/rev.md)) |             |                | VolgaCTF (27 mars)                              |
-| 03/31 | Rétro-ingénierie             |             | Présentation 2 | [ångstromCTF (2-7 Avril)](https://angstromctf.com/)|
+| 03/31 | Rétro-ingénierie suite + Exploitation binaire ([Exercices](cours/pwn.md)) |             |                | [ångstromCTF (2-7 Avril)](https://angstromctf.com/)|
 | 04/07 | Exploitation binaire         |             |                | Midnight Sun CTF (9 avr)                        |
-| 04/14 | Exploitation binaire         |             | Présentation 3 | PlaidCTF (16 avr)                               |
+| 04/14 | Exploitation binaire         |             |                | PlaidCTF (16 avr)                               |
 | 04/21 | Contre-mesures modernes      |             |                | Montréhack (20 avr 19h)                         |
 | 04/28 | Exploitation binaire moderne |             |                |                                                 |
 | 05/05 | Examen final                 |             |                | Northsec (20-28 mai)                            |
