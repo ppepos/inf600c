@@ -39,7 +39,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 |-------|------------------------------|-------------|----------------|-------------------------------------------------|
 | 03/24 | Rétro-ingénierie ([Exercices](cours/rev.md)) |             |                | VolgaCTF (27 mars)                              |
 | 03/31 | Rétro-ingénierie suite + Exploitation binaire ([Exercices](cours/pwn.md)) |             |                | [ångstromCTF (2-7 Avril)](https://angstromctf.com/)|
-| 04/07 | Exploitation binaire         |             |                | Midnight Sun CTF (9 avr)                        |
+| 04/07 | Exploitation binaire ([Exercices](cours/pwn2.md))        |             |                | Midnight Sun CTF (9 avr)                        |
 | 04/14 | Exploitation binaire         |             |                | PlaidCTF (16 avr)                               |
 | 04/21 | Contre-mesures modernes      |             |                | Montréhack (20 avr 19h)                         |
 | 04/28 | Exploitation binaire moderne |             |                |                                                 |
