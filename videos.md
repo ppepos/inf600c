@@ -16,6 +16,8 @@
 12. [2021-03-10 - Web partie 4](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EXJlRAiI7-NBoZaE8ha3W8YBT7gKDw3km7IkQnUJec5GDQ?e=sV1R8R)
 12. [2021-03-24 - Reverse](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EZUxQ-49LddOtvtyz7G6akEBdKT2Pf7y5r7D5LIn4ARbDw?e=rssaao)
 12. [2021-03-31 - Reverse 2](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/ERkeHPrAZR9AnvecCl0p04sBgu3rI_VG1MvDygcqI3Qj-Q?e=MNfrMP)
+12. [2021-03-31 - Pwn 1](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EQOoKOynSLVPmW6uMHCYE34BKGcBNsu2Sw6rKapRUofpxw?e=8RERDc)
+12. [2021-04-07 - Pwn 2](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EVeX5DNoYnVDkHsOX8WkOz4BZ2Ik6zyG6UotK84iN9kXug?e=SaIWX9)
 
 # Enregistrements des laboratoires
 
