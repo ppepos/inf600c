@@ -69,9 +69,28 @@ La remise doit être électronique (pdf).
 
 * Faites bien attention au nom du répertoire, les TPs sont récoltés par un script.
 
+## Dates et remise du TP2
+
+La limite de taille pour le document à rendre est de 10 pages.
+
+Les instructions sont dans:
+
+* Répertoire `/quetes/tp2`
+* Lisez le fichiers `/quetes/tp2/*/README` pour les instructions.
+
+La remise doit être électronique (pdf).
+
+* Au plus tard le 5 mai, 19h dans le répertoire «`tp2_remise`» dans le home de votre utilisateur sur le serveur workspace des laboratoires, vous remettrez:
+
+	* Le fichier pdf de votre rapport
+	* Vos payloads et autres scripts (ceux en annexe)
+	* S’il y a aussi un Makefile et un README c’est encore mieux.
+
+* Faites bien attention au nom du répertoire, les TPs sont récoltés par un script.
+
 ## Dates et remise du TPS
 
-Les modalités sont les même que détaillées [ici](https://info.uqam.ca/~privat/INF600C/tps/) à l'exception de:
+Les modalités sont les mêmes que détaillées [ici](https://info.uqam.ca/~privat/INF600C/tps/) à l'exception de:
 
  * Il est accepté de faire le TPS individuellement.
  * Il n'y a pas de remise papier à faire.
