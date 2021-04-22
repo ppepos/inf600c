@@ -14,10 +14,14 @@
 10. [2021-02-24 - Web partie 2](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EXE5ecYCQvZLgn2Xo7Bb5LUBI9FtFSEibPLQu38NQvWOTA)
 11. [2021-03-10 - Web partie 3](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EWPL8LtsnVFFhmP8X5xt6bUBaEahARhZQEDBvYO0EjyicA?e=1CgX8l)
 12. [2021-03-10 - Web partie 4](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EXJlRAiI7-NBoZaE8ha3W8YBT7gKDw3km7IkQnUJec5GDQ?e=sV1R8R)
-12. [2021-03-24 - Reverse](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EZUxQ-49LddOtvtyz7G6akEBdKT2Pf7y5r7D5LIn4ARbDw?e=rssaao)
-12. [2021-03-31 - Reverse 2](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/ERkeHPrAZR9AnvecCl0p04sBgu3rI_VG1MvDygcqI3Qj-Q?e=MNfrMP)
-12. [2021-03-31 - Pwn 1](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EQOoKOynSLVPmW6uMHCYE34BKGcBNsu2Sw6rKapRUofpxw?e=8RERDc)
-12. [2021-04-07 - Pwn 2](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EVeX5DNoYnVDkHsOX8WkOz4BZ2Ik6zyG6UotK84iN9kXug?e=SaIWX9)
+13. [2021-03-24 - Reverse](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EZUxQ-49LddOtvtyz7G6akEBdKT2Pf7y5r7D5LIn4ARbDw?e=rssaao)
+14. [2021-03-31 - Reverse 2](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/ERkeHPrAZR9AnvecCl0p04sBgu3rI_VG1MvDygcqI3Qj-Q?e=MNfrMP)
+15. [2021-03-31 - Pwn 1](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EQOoKOynSLVPmW6uMHCYE34BKGcBNsu2Sw6rKapRUofpxw?e=8RERDc)
+16. [2021-04-07 - Pwn 2](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EVeX5DNoYnVDkHsOX8WkOz4BZ2Ik6zyG6UotK84iN9kXug?e=SaIWX9)
+17. [2021-04-14 - Retour Shellcode](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EWoFchnWSNRJs4ivNZhXVOcBLrZ0s9sCW_2iV9WLFLZRJA?e=4Jc1hC)
+18. [2021-04-14 - Retour Examen](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EQqWycc1yy5Jo57l1soOP5YBMmQFiQ1mDX22G6S6kkFN0A?e=WnwADD)
+19. [2021-04-14 - ROP 1](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EaKzsngvYClLibXu2dGt_k8BPCWjtCmGvpcgBrDDFxkVJA?e=QkmxZy)
+20. [2021-04-14 - ROP 2](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EX_pHeKi3WpNtSGFyQjoDOgBo2f09BKQPxffih2GaGKxvg?e=Q12dY1)
 
 # Enregistrements des laboratoires
 
