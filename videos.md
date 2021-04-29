@@ -35,3 +35,4 @@
 8. [Reverse (suite)](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EahQBBt94CtFgrfi0nYOmzkBkqEhD7sjsw_1VPhkbCVbcw?e=mmxBbr)
 9. [Exploitation Binaire](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/Ed8WwmxY3ENGtp5qjHnVH68BUgopqSRlQ7ZyrS8pMGNAyg?e=FA9LbZ)
 10. [Exploitation Binaire (Suite)](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EdQ9bxcSwz5Dh93owvurRAEB7-V15XzqmF6lGn6GIIJNCg?e=Q2ZVBm)
+11. [Révision](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EfVKNkpg7wFLlRNXQgXujhABGtcj2ux2AEHsRUhy6jELIw?e=lTcUqr)
