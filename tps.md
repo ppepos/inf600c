@@ -80,7 +80,7 @@ Les instructions sont dans:
 
 La remise doit être électronique (pdf).
 
-* Au plus tard le 5 mai, 19h dans le répertoire «`tp2_remise`» dans le home de votre utilisateur sur le serveur workspace des laboratoires, vous remettrez:
+* Au plus tard le ~~5~~ 9 mai, 19h dans le répertoire «`tp2_remise`» dans le home de votre utilisateur sur le serveur workspace des laboratoires, vous remettrez:
 
 	* Le fichier pdf de votre rapport
 	* Vos payloads et autres scripts (ceux en annexe)
