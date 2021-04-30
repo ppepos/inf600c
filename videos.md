@@ -22,6 +22,7 @@
 18. [2021-04-14 - Retour Examen](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EQqWycc1yy5Jo57l1soOP5YBMmQFiQ1mDX22G6S6kkFN0A?e=WnwADD)
 19. [2021-04-14 - ROP 1](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EaKzsngvYClLibXu2dGt_k8BPCWjtCmGvpcgBrDDFxkVJA?e=QkmxZy)
 20. [2021-04-14 - ROP 2](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EX_pHeKi3WpNtSGFyQjoDOgBo2f09BKQPxffih2GaGKxvg?e=Q12dY1)
+20. [2021-04-14 - Hard](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EaHeV2Z-5jBIkk8SsxlFLccBwd0aVniHg7WM5QGuffiPWg?e=TjWWGc)
 
 # Enregistrements des laboratoires
 
