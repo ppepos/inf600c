@@ -1,6 +1,6 @@
 # Revue des logiciels
 
- 1. Construisez un *Mind Map* simple des concepts suivants et de leurs relations.
+ 1. Mettez en relation chacun des concepts suivants dans un graphe/schéma/*Mind Map* simple.
     - Programme
     - Écriture (programmation)
     - Toolchain
@@ -11,7 +11,7 @@
     - Programmeur
     - Exécution
     - Données (input)
- 2. Discutez puis donnez votre définition d'un **bug**.
+ 2. Discutez puis donnez votre définition d'un **bug**. Où se situe les bugs dans votre schéma de la question 1?
  3. Parmi les exemples suivants lesquels sont des vulnérabilités?
     1. `rm *`
     2. `echo cm0gKgo= | base64 -d | sh`
@@ -20,10 +20,22 @@
  4. En considérant vos réponses à l'exercice précédent, donnez une définition d'une **vulnérabilité logicielle**. 
     1. Est-ce que tous les bugs sont des vulnérabilité?
     2. Quelles sont les caractéristiques d'une vulnérabilité?
+    3. En référence à votre schéma de la question 1,
+       1. Où se situent les vulnérabilités?
+       2. Qui est responsable de la vulnérabilité?
  5. Donnez une définition de l'**exploitation** d'une vulnérabilité.
  6. Qu'est-ce q'un **exploit** d'après vous?
 
 # Exercices Fragilités
+
+Pour chacun des exercices suivants, cherchez une vulnérabilité logicielle et trouvez un exploit qui vous permettrait de lire les fichiers `flag?.txt`. La démarche est libre à vous mais en voici tout de même un exemple.
+
+ 1. Cherchez un bug
+ 2. Observez ce que ce bug peut causer comme effet dans l'état ou dans le flot du logiciel
+ 3. Trouvez une façon de rendre ces effets utiles pour atteindre votre objectif (lire le flag)
+ 4. Développez votre exploit
+
+Réfléchissez par la suite aux correctifs possibles et évaluez leur efficacité. Prenez le temps de prendre un peu de recul sur la vulnérabilité afin de bien comprendre quel est le noeud du problème. Votre correctif devrait cibler le noeud du problème.
 
 ## Auth
 
