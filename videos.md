@@ -2,6 +2,12 @@
 
 ## Séances et matière
 
+## Enregistrements des laboratoires
+
+# Anciens vidéos
+
+## Séances et matière
+
 1. [2021-01-20 - Introduction partie 1](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/Ebz0Fy4WovlIo_EilzxNv3QB72r3XaI3OcVPEriUhol7xA)
 2. [2021-01-27 - Introduction partie 2](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EUc0adhJiPBHjL6G8FWk8F4B0R7-NjVSYTUdNv3MzX4bpw?e=i1Opvj)
 3. [2021-01-27 - Système partie 1](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/ETPgJ28TGU1Gi_GWxngsLbEBrErQPk8lRLr9LWbsZGIC1A)

@@ -6,14 +6,13 @@ title: INF600C - Accueil
 
 * [Horaires ~~et locaux~~](http://www.etudier.uqam.ca/cours?sigle=INF600C#Horaire)
 * [Local virtuel (Conférence Zoom)](https://uqam.zoom.us/j/81228469094)
-  * [Local virtuel pour les labs](https://uqam.zoom.us/j/83678440528)
-  * Passcode: **verkaranta**
-* [Plan de cours](http://info.uqam.ca/plan_cours/Hiver%202021/INF600C.html)
+* [Plan de cours](http://info.uqam.ca/plan_cours/Hiver%202022/INF600C.html)
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
-* [Page des examens](examen.md)
 * [Page des videos](videos.md)
 * [Slides](https://github.com/ppepos/inf600c/tree/master/pres)
+<!--
 * [Page des TPs](tps.md)
+-->
 
 # Échéancier
 
@@ -23,17 +22,19 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 | Date  | Sujet                        | Laboratoire | Notes          | Extras                                          |
 |-------|------------------------------|-------------|----------------|-------------------------------------------------|
-| 01/20 | Introduction ([Exercices](cours/intro.md)) | N/A         |                |                          |
-| 01/27 | Introduction suite |  |                | Montréhack (27 jan 19h)                                                |
-| 02/03 | Exploitation système         |                |                |                                                 |
-| 02/10 | Exploitation système ([Matière async.](cours/systeme.md))         |    |                |                                                 |
-| 02/17 | Web ([Exercices](cours/web.md)) |             |                | Montréhack (17 fév 19h)                         |
-| 02/24 | Web                          |             |                |                                                 |
+| 01/12 | Introduction ([Exercices](cours/intro.md)) | N/A |          |      			                        |
+| 01/19 | Introduction suite           |             |                |                                                 |
+| 01/26 | Exploitation système         |             |                |                                                 |
+| 02/02 | Exploitation système ([Matière async.](cours/systeme.md)) |  |  |                                             |
+| 02/09 | Web ([Exercices](cours/web.md)) |          |                |                                                 |
+| 02/16 | Web                          |             |                |                                                 |
+| 02/23 | Web                          |             |                |                                                 |
 | 03/02 | N/A                          | N/A         | Semaine de lecture |                                             |
-| 03/09 | Web                          |             |                | UTCTF (13 mars)                                 |
-| 03/16 | Examen intra                 |             |                | Montréhack (16 mars 19h), PoseidonCTF (20 mars) |
+| 03/09 | Examen intra                 |             |                |                                                 |
 
 ## Partie 2
+
+<!--
 
 | Date  | Sujet                        | Laboratoire | Notes          | Extras                                          |
 |-------|------------------------------|-------------|----------------|-------------------------------------------------|
@@ -45,14 +46,12 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 04/28 | Exploitation binaire moderne |             |                |                                                 |
 | 05/05 | Examen final                 |             |                | Northsec (20-28 mai)                            |
 
-## Solutions
-
-...
+-->
 
 # Support et contacts
 
 * Professeur: <pepos-petitclerc.philippe@uqam.ca>
-* Démonstrateurs et support: [Alexandre Côté Cyr](https://ageei-uqam.slack.com/messages/@barberousse)
+* Démonstrateurs et support: 
 * Canal de discussion officiel: [Mattermost Officiel](https://mattermost.info.uqam.ca/forum/channels/inf600c)
 * Canal de discussion officieux: Il y a un canal sur le slack de l'asso étudiante.
 
@@ -90,9 +89,13 @@ chromium --proxy-pac-url=http://info.uqam.ca/~privat/INF600C/inf600c.pac "http:/
 
 * Pour Firefox, la configuration est rangée dans: menu > préférences > avancé > réseau > configurer la façon dont Firefox se connecte à Internet > adresse de configuration automatique du proxy > mettre `http://info.uqam.ca/~privat/INF600C/inf600c.pac` dans le champ ; cocher également utiliser un DNS distant lorsque SOCKS v5 est actif
 
+<!--
+
 ### Configuration de Burp
 
 Le logiciel [Burp](https://portswigger.net/burp/communitydownload) peut être utile pour la partie Web. Ce [document](https://uqam-my.sharepoint.com/:b:/g/personal/cote_cyr_alexandre_uqam_ca/EXYnhHzaGYpAooX7f4yv1wUBtCooEjnIWWU8GiUE5SkADQ?e=nsKBrM) vous explique comment le configurer avec le proxy du cours.
+
+-->
 
 # Ressources
 
@@ -138,8 +141,6 @@ Ils sont à la bibliothèque des sciences de l'UQAM et certains sont à la BANQ.
 * [#securite](https://ageei-uqam.slack.com/messages/securite/) - discussion et nouvelles sur la sécurité informatique en général
 
 ## Lectures intéressantes
-
-...
 
 ### Anciennes sessions
 
