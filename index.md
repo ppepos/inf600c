@@ -10,6 +10,7 @@ title: INF600C - Accueil
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
 * [Page des videos](videos.md)
 * [Slides](https://github.com/ppepos/inf600c/tree/master/pres)
+
 <!--
 * [Page des TPs](tps.md)
 -->
