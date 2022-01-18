@@ -24,7 +24,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | Date  | Sujet                        | Laboratoire | Notes          | Extras                                          |
 |-------|------------------------------|-------------|----------------|-------------------------------------------------|
 | 01/12 | Introduction ([Exercices](cours/intro.md)) | N/A |          |      			                        |
-| 01/19 | Introduction suite           |             |                |                                                 |
+| 01/19 | Introduction suite           | [intro](labs/01-intro.md) |                |                                                 |
 | 01/26 | Exploitation système         |             |                |                                                 |
 | 02/02 | Exploitation système ([Matière async.](cours/systeme.md)) |  |  |                                             |
 | 02/09 | Web ([Exercices](cours/web.md)) |          |                |                                                 |
