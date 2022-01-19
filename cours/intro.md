@@ -197,6 +197,25 @@ public class Auth4 extends AuthBase {
 }
 ```
 
+## Checkhost
+
+```php
+<pre>
+<?php
+# get the host parameter
+$host = $_GET['host'];
+if($host) {
+	# check the host with the ping(8) command
+	system("ping -c 1 -w 1 -q " . $host);
+}
+?>
+</pre>
+<form method=get>
+<input type=text name=host>
+<input type=submit>
+</form>
+```
+
 ## ARecover
 
 ``` perl
