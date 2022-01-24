@@ -32,14 +32,4 @@
 
 # Enregistrements des laboratoires
 
-1. [Introduction](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EQdiRYEvLM5JucgeR0zUujwBN7BZmXUTN4WUdli3kGuigQ?e=4weXuc)
-2. [Introduction (suite)](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EbWqGI8Dm-FAq7mnF-9Ax2kBaMOKT0GcuV4ziUT2vbddyA?e=nThqu0)
-3. [Exploitation système](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/Ebolg7QYGXdEvFq0W_LsEcwBs8HnIrtN8kqDtMK90oyRZQ?e=mjGLda)
-4. [Exploitation système (suite)](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EdSL4LpuREBFnEdA0HNziOEBqRn7Mfa7N1Gy0mBtwX8Mqw?e=pupEyU)
-5. [Exploitation web](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EbTlL-gEUMJCrH2XMlBGTskBunmSib5TPHqtaG0CR9uy5w?e=QcqJSg)
-6. [Exploitation web (suite)](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/ERGmpSOeyx9JrtrCh6dU_hoB4t1pYMr2SFepYRJf71VEfw?e=aGc80o)
-7. [Reverse](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EYyiuxQkFjVEp_uL3GLSKqkBlTWcqpH4_guaar63Lp7qYQ?e=P9Dq0A)
-8. [Reverse (suite)](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EahQBBt94CtFgrfi0nYOmzkBkqEhD7sjsw_1VPhkbCVbcw?e=mmxBbr)
-9. [Exploitation Binaire](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/Ed8WwmxY3ENGtp5qjHnVH68BUgopqSRlQ7ZyrS8pMGNAyg?e=FA9LbZ)
-10. [Exploitation Binaire (Suite)](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EdQ9bxcSwz5Dh93owvurRAEB7-V15XzqmF6lGn6GIIJNCg?e=Q2ZVBm)
-11. [Révision](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EfVKNkpg7wFLlRNXQgXujhABGtcj2ux2AEHsRUhy6jELIw?e=lTcUqr)
+1. [2021-01-20 - Introduction](https://uqam-my.sharepoint.com/:v:/r/personal/aj691025_ens_uqam_ca/Documents/INF600C/D%C3%A9mo/video1648948411.mp4?csf=1&web=1&e=uizCuc)
