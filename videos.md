@@ -32,4 +32,4 @@
 
 # Enregistrements des laboratoires
 
-1. [2021-01-20 - Introduction](https://uqam-my.sharepoint.com/:v:/r/personal/aj691025_ens_uqam_ca/Documents/INF600C/D%C3%A9mo/video1648948411.mp4?csf=1&web=1&e=uizCuc)
+1. [2021-01-20 - Introduction](https://uqam-my.sharepoint.com/:v:/g/personal/aj691025_ens_uqam_ca/EZq2cx4h761Jl2O5bjbT9D0BOiCR-HPpjHWCKmSS1coa_Q)
