@@ -32,7 +32,6 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 02/23 | Web                  |                               |                               | Remise TP1: 02/27| |
 | 03/02 | N/A                  | N/A                           |                               | Semaine de lecture | |
 | 03/09 | Examen intra         |                               |                               | | |
-| 04/20 | Examen final         |                               |                               | | |
 
 ## Partie 2
 
