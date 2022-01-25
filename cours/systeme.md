@@ -1,3 +1,6 @@
+---
+title: Exploitation système
+---
 # Isolation
 
 ## catsecret0
@@ -10,11 +13,13 @@ Le programme est disponible dans les labs: `/quetes/cours/02-sys/secret1/catsecr
 
 
 <details><summary>‣ Indice 1</summary>
-<p>Qu'est-ce qui est possible avec la permission `r` sur un exécutable?</p>
+
+Qu'est-ce qui est possible avec la permission `r` sur un exécutable?
 </details>
 
 <details><summary>‣ Indice 2</summary>
-<p>man ltrace</p>
+
+`man ltrace`
 </details>
 
 # Shell
