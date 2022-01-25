@@ -1,3 +1,22 @@
+# Isolation
+
+## catsecret0
+
+Cet exercice sera fait interactivement en classe. Au cas ou vous vouliez y revenir, le programme est disponible dans les labs: `/quetes/cours/02-sys/secret0/catsecret`.
+
+## catsecret1
+
+Le programme est disponible dans les labs: `/quetes/cours/02-sys/secret1/catsecret`.
+
+
+<details><summary>‣ Indice 1</summary>
+<p>Qu'est-ce qui est possible avec la permission `r` sur un exécutable?</p>
+</details>
+
+<details><summary>‣ Indice 2</summary>
+<p>man ltrace</p>
+</details>
+
 # Shell
 
 ## Shellshock
