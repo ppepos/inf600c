@@ -1,16 +1,25 @@
 ---
 title: Exploitation système
 ---
-# Isolation
+# Isolation, permissions et secrets
 
 ## catsecret0
 
 Cet exercice sera fait interactivement en classe. Au cas ou vous vouliez y revenir, le programme est disponible dans les labs: `/quetes/cours/02-sys/secret0/catsecret`.
 
+```sh
+cd /quetes/cours/02-sys/secret0/
+./catsecret
+```
+
 ## catsecret1
 
 Le programme est disponible dans les labs: `/quetes/cours/02-sys/secret1/catsecret`.
 
+```sh
+cd /quetes/cours/02-sys/secret1/
+./catsecret
+```
 
 <details><summary>‣ Indice 1</summary>
 <p>Qu'est-ce qui est possible avec la permission <code>r</code> sur un exécutable?</p>
@@ -20,22 +29,50 @@ Le programme est disponible dans les labs: `/quetes/cours/02-sys/secret1/catsecr
 <p><code>man ltrace</code></p>
 </details>
 
-# Shell
+# Chemins
 
-## Shellshock
+## catsecret2
 
- - [Présentation sur Shellshock](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/ESRh-JEAKlxGoVAqkJ15lukBwkwGK4HZVCbQ-ifVqf5DTw)
+Le programme est disponible dans les labs: `/quetes/cours/02-sys/secret2/catsecret`. Nous souhaitons lire le second flag.
 
-# Noyau des systèmes d'exploitation
+```sh
+cd /quetes/cours/02-sys/secret2/
+ls -al
+./catsecret
+```
 
-## DirtyCOW
+<details><summary>‣ Indice 1</summary>
+<p>Quel est le chemin du fichier ouvert par le programme?</p>
+</details>
 
- - [Présentation sur DirtyCOW](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EVsmEwX3S05Ng5VV-oIowUABXGjUVJBLeWpUheAe9RPNWA?e=izbWU2)
- - [Exploit](https://github.com/dirtycow/dirtycow.github.io/blob/master/dirtyc0w.c)
- - [Détails techniques](https://chao-tic.github.io/blog/2017/05/24/dirty-cow)
- - [Survol de LiveOverflow](https://www.youtube.com/watch?v=kEsshExn7aE)
- - [Article de Bindecy](https://medium.com/bindecy/huge-dirty-cow-cve-2017-1000405-110eca132de0)
+<details><summary>‣ Indice 2</summary>
+<p>Par rapport à où?</p>
+</details>
 
-## Meltdown et Spectre
+<details><summary>‣ Indice 3</summary>
+<p>Quel répertoire est <code>.</code>? C'est un chemin relatif, mais relatif à quoi?</p>
+</details>
 
- - [Présentation sur Meltdown et Spectre](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EZIPPmN9Qs1HmJrYr84h4UcB2Z1czWHdZIwBsxz7TCgXMg?e=yq4M77)
+# Ressources
+
+## Pass
+
+Le programme est disponible dans les labs: `/quetes/cours/02-sys/pass/pass`. Ici, nous souhaitons obtenir le message "You are in!". Le code source est dispnible.
+
+```sh
+cd /quetes/cours/02-sys/pass
+./pass
+```
+
+<details><summary>‣ Indice 1</summary>
+<p>Voyez-vous une bonne pratique par rapport à la gestion des fichiers qui est manquante.</p>
+</details>
+
+<details><summary>‣ Indice 2</summary>
+<p>Trouvez-vous une mauvaise gestion d'erreurs?</p>
+</details>
+
+<details><summary>‣ Indice 3</summary>
+<p>Est-ce que le <code>fopen</code> peut échouer? <code>man fopen</code></p>
+</details>
+
