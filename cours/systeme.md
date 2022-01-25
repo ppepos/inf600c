@@ -13,13 +13,11 @@ Le programme est disponible dans les labs: `/quetes/cours/02-sys/secret1/catsecr
 
 
 <details><summary>‣ Indice 1</summary>
-
-Qu'est-ce qui est possible avec la permission `r` sur un exécutable?
+<p>Qu'est-ce qui est possible avec la permission <code>r</code> sur un exécutable?</p>
 </details>
 
 <details><summary>‣ Indice 2</summary>
-
-`man ltrace`
+<p><code>man ltrace</code></p>
 </details>
 
 # Shell
