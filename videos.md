@@ -33,3 +33,4 @@
 # Enregistrements des laboratoires
 
 1. [2021-01-20 - Introduction](https://uqam-my.sharepoint.com/:v:/g/personal/aj691025_ens_uqam_ca/EZq2cx4h761Jl2O5bjbT9D0BOiCR-HPpjHWCKmSS1coa_Q)
+2. [2021-01-27 - Introduction (suite)](https://uqam-my.sharepoint.com/:v:/g/personal/aj691025_ens_uqam_ca/EWnZ2CmPO_1PjOfbwkLscXgBiGEH3JMh0QCrOW5k6IBAdA?e=mA8mb0)
