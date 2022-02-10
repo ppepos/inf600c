@@ -40,4 +40,4 @@ Il vaut mieux gérer une erreur que de demander la permission et exécuter en de
 - /dev/null
 
 ### Extra
-Les section [redirection](https://www.man7.org/linux/man-pages/man1/bash.1.html#REDIRECTION) et [grammaire](https://www.man7.org/linux/man-pages/man1/bash.1.html#SHELL_GRAMMAR) de la manpage de bash peuvent être utilise pour faciliter la prise en main du contenu du cours.
+Les sections [redirection](https://www.man7.org/linux/man-pages/man1/bash.1.html#REDIRECTION) et [grammaire](https://www.man7.org/linux/man-pages/man1/bash.1.html#SHELL_GRAMMAR) de la manpage de bash peuvent être utiles pour faciliter la prise en main du contenu du cours.
