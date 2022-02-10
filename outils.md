@@ -20,7 +20,7 @@ Il faut distinguer utilisateur/groupe effectif et réel.
 
 **TOCTOU** *(condition de course)*
 Il vaut mieux gérer une erreur que de demander la permission et exécuter en deux étapes distinctes. Ce genre de bug peut se produire lors de l'utilisation du *setuid*.
-
+Par analogie, imaginez être le gardien d'une banque. Vous voulez protéger le trésor d'un voleur que vous craignez affronter directement. Le voleur arrive, ouvre un coffre et constate le trésor à l'intérieur. Il décide d'explorer le reste des lieux pendant ce temps. Vous avez environ 5 minutes pour vider le contenu du coffre. À son retour, le voleur part avec un coffre vide sans s'en rendre compte. Vous avez réussi! La morale de l'histoire est qu'il aurait du vérifier le coffre au moment de partir.
 
 ## Commandes Bash utiles
 
@@ -40,4 +40,4 @@ Il vaut mieux gérer une erreur que de demander la permission et exécuter en de
 - /dev/null
 
 ### Extra
-Les sections [redirection](https://www.man7.org/linux/man-pages/man1/bash.1.html#REDIRECTION) et [grammaire](https://www.man7.org/linux/man-pages/man1/bash.1.html#SHELL_GRAMMAR) de la manpage de bash peuvent être utiles pour faciliter la prise en main du contenu du cours.
+Les sections [redirection](https://www.man7.org/linux/man-pages/man1/bash.1.html#REDIRECTION) et [grammaire](https://www.man7.org/linux/man-pages/man1/bash.1.html#SHELL_GRAMMAR) de la man page de bash peuvent être utiles pour faciliter la prise en main du contenu du cours.
