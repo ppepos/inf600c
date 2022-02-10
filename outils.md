@@ -5,7 +5,7 @@
 - Qu'est-ce que ma zone de contrôle influence-t-elle?
 - Qu'est-ce que je cherche à obtenir?
 
-## Sur quoi avons nous le contrôle ?
+## Sur quoi avons-nous le contrôle ?
 L'utilisateur d'un programme détermine l'intrant et récupère l'extrant.
 L'exécution d'un programme est dépendante de son environnement. 
 Dans certain cas, on peut déterminer quelles seront les variables d'environnement et le répertoire courant. 
@@ -38,3 +38,6 @@ Il vaut mieux gérer une erreur que de demander la permission et exécuter en de
 - ln
 - mktemp
 - /dev/null
+
+### Extra
+Les section [redirection](https://www.man7.org/linux/man-pages/man1/bash.1.html#REDIRECTION) et [grammaire](https://www.man7.org/linux/man-pages/man1/bash.1.html#SHELL_GRAMMAR) de la manpage de bash peuvent être utilise pour faciliter la prise en main du contenu du cours.
