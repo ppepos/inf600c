@@ -27,7 +27,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 01/19 | Introduction suite   |                                         | [intro](labs/01-intro.md)     |                    |        |
 | 01/26 | Exploitation système | [Exercices](cours/systeme.md)           | intro (suite)                 |                    |        |
 | 02/02 | Exploitation système |                                         | [système](labs/02-systeme.md) |                    |        |
-| 02/09 | Exploitation système | [Matière Async.](cours/systeme_next.md) |                               |                    |        |
+| 02/09 | Exploitation système | [Matière Async.](cours/systeme_next.md) | [outils](outils.md)           |                    |        |
 | 02/16 | Web                  |                                         |                               |                    |        |
 | 02/23 | Web                  |                                         |                               | Remise TP1: 02/27  |        |
 | 03/02 | N/A                  | N/A                                     |                               | Semaine de lecture |        |
