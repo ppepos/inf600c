@@ -4,6 +4,9 @@
 
 ## Enregistrements des laboratoires
 
+1. [2022-01-20 - Introduction](https://uqam-my.sharepoint.com/:v:/g/personal/aj691025_ens_uqam_ca/EZq2cx4h761Jl2O5bjbT9D0BOiCR-HPpjHWCKmSS1coa_Q)
+2. [2022-01-27 - Introduction (suite)](https://uqam-my.sharepoint.com/:v:/g/personal/aj691025_ens_uqam_ca/EWnZ2CmPO_1PjOfbwkLscXgBiGEH3JMh0QCrOW5k6IBAdA?e=mA8mb0)
+
 # Anciens vidéos
 
 ## Séances et matière
@@ -30,7 +33,16 @@
 20. [2021-04-14 - ROP 2](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EX_pHeKi3WpNtSGFyQjoDOgBo2f09BKQPxffih2GaGKxvg?e=Q12dY1)
 20. [2021-04-14 - Hard](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/EaHeV2Z-5jBIkk8SsxlFLccBwd0aVniHg7WM5QGuffiPWg?e=TjWWGc)
 
-# Enregistrements des laboratoires
+## Enregistrements des laboratoires 2021
 
-1. [2021-01-20 - Introduction](https://uqam-my.sharepoint.com/:v:/g/personal/aj691025_ens_uqam_ca/EZq2cx4h761Jl2O5bjbT9D0BOiCR-HPpjHWCKmSS1coa_Q)
-2. [2021-01-27 - Introduction (suite)](https://uqam-my.sharepoint.com/:v:/g/personal/aj691025_ens_uqam_ca/EWnZ2CmPO_1PjOfbwkLscXgBiGEH3JMh0QCrOW5k6IBAdA?e=mA8mb0)
+1. [Introduction](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EQdiRYEvLM5JucgeR0zUujwBN7BZmXUTN4WUdli3kGuigQ?e=4weXuc)
+2. [Introduction (suite)](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EbWqGI8Dm-FAq7mnF-9Ax2kBaMOKT0GcuV4ziUT2vbddyA?e=nThqu0)
+3. [Exploitation système](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/Ebolg7QYGXdEvFq0W_LsEcwBs8HnIrtN8kqDtMK90oyRZQ?e=mjGLda)
+4. [Exploitation système (suite)](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EdSL4LpuREBFnEdA0HNziOEBqRn7Mfa7N1Gy0mBtwX8Mqw?e=pupEyU)
+5. [Exploitation web](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EbTlL-gEUMJCrH2XMlBGTskBunmSib5TPHqtaG0CR9uy5w?e=QcqJSg)
+6. [Exploitation web (suite)](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/ERGmpSOeyx9JrtrCh6dU_hoB4t1pYMr2SFepYRJf71VEfw?e=aGc80o)
+7. [Reverse](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EYyiuxQkFjVEp_uL3GLSKqkBlTWcqpH4_guaar63Lp7qYQ?e=P9Dq0A)
+8. [Reverse (suite)](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EahQBBt94CtFgrfi0nYOmzkBkqEhD7sjsw_1VPhkbCVbcw?e=mmxBbr)
+9. [Exploitation Binaire](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/Ed8WwmxY3ENGtp5qjHnVH68BUgopqSRlQ7ZyrS8pMGNAyg?e=FA9LbZ)
+10. [Exploitation Binaire (Suite)](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EdQ9bxcSwz5Dh93owvurRAEB7-V15XzqmF6lGn6GIIJNCg?e=Q2ZVBm)
+11. [Révision](https://uqam-my.sharepoint.com/:v:/g/personal/cote_cyr_alexandre_uqam_ca/EfVKNkpg7wFLlRNXQgXujhABGtcj2ux2AEHsRUhy6jELIw?e=lTcUqr)
