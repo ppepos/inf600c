@@ -8,12 +8,9 @@ title: INF600C - Accueil
 * [Local virtuel (Conférence Zoom)](https://uqam.zoom.us/j/81228469094)
 * [Plan de cours](http://info.uqam.ca/plan_cours/Hiver%202022/INF600C.html)
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
-* [Page des videos](videos.md)
 * [Slides](https://github.com/ppepos/inf600c/tree/master/pres)
-
-<!--
+* [Page des videos](videos.md)
 * [Page des TPs](tps.md)
--->
 
 # Échéancier
 
@@ -21,17 +18,17 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 ## Partie 1
 
-| Date  | Sujet                | Exercices                               | Laboratoire                   | Notes              | Extras |
-|-------|----------------------|-----------------------------------------|-------------------------------|--------------------|--------|
-| 01/12 | Introduction         | [Exercices](cours/intro.md)             | N/A                           |                    |        |
-| 01/19 | Introduction suite   |                                         | [intro](labs/01-intro.md)     |                    |        |
-| 01/26 | Exploitation système | [Exercices](cours/systeme.md)           | intro (suite)                 |                    |        |
-| 02/02 | Exploitation système |                                         | [système](labs/02-systeme.md) |                    |        |
-| 02/09 | Exploitation système | [Matière Async.](cours/systeme_next.md) | [outils](outils.md)           |                    |        |
-| 02/16 | Web                  |                                         |                               |                    |        |
-| 02/23 | Web                  |                                         |                               | Remise TP1: 02/27  |        |
-| 03/02 | N/A                  | N/A                                     |                               | Semaine de lecture |        |
-| 03/09 | Examen intra         |                                         |                               |                    |        |
+| Date  | Sujet                | Exercices                               | Laboratoire                   | Notes                 | Extras |
+|-------|----------------------|-----------------------------------------|-------------------------------|-----------------------|--------|
+| 01/12 | Introduction         | [Exercices](cours/intro.md)             | N/A                           |                       |        |
+| 01/19 | Introduction suite   |                                         | [intro](labs/01-intro.md)     |                       |        |
+| 01/26 | Exploitation système | [Exercices](cours/systeme.md)           | intro (suite)                 |                       |        |
+| 02/02 | Exploitation système |                                         | [système](labs/02-systeme.md) |                       |        |
+| 02/09 | Exploitation système | [Matière Async.](cours/systeme_next.md) | [outils](outils.md)           |                       |        |
+| 02/16 | Web                  |                                         |                               | Explications TPs      |        |
+| 02/23 | Web                  |                                         |                               | ~~Remise TP1: 02/27~~ |        |
+| 03/02 | N/A                  | N/A                                     |                               | Semaine de lecture    |        |
+| 03/09 | Examen intra         |                                         |                               | Remise TP1: 03/13     |        |
 
 ## Partie 2
 

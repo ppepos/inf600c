@@ -10,7 +10,7 @@ L'équipe doit rester la même pour tous les exercices d'un même TP.
 Pour chaque TP, une liste d'exercices à réaliser est fournie.
 L'accès aux exercices se fait par la même procédure que pour les laboratoires.
 
-Pour vous aider, nous fournissons un [exemple de writeup pour un exercice](https://uqam-my.sharepoint.com/:w:/g/personal/hj691097_ens_uqam_ca/ET4VyETW9JVDhZ-URSOjhigB8wHyTn0uLBNIVXUCPkZ4Kg?e=UjxlSL).
+Pour vous aider, nous fournissons un [exemple de writeup pour un exercice](res/writeup-demo.pdf). Vous pouvez également jeter un coup d'oeil aux [writeups d'*Hubert Hackin*](https://huberthackin.gitlab.io/posts/). Ils ne sont pas écrits en fonction du cours mais ce sont néanmoins des writeups complets qui peuvent vous guider dans l'écriture des votres.
 
 ### Document à produire
 
@@ -61,13 +61,16 @@ Les instructions sont dans:
 
 La remise doit être électronique (pdf).
 
-* Au plus tard le ~~24 mars~~ 1er avril, 13h dans le répertoire «`tp1_remise`» dans le home de votre utilisateur sur le serveur workspace des laboratoires, vous remettrez:
+* Au plus tard le 13 mars, 13h dans le répertoire «`tp1_remise`» dans le home de votre utilisateur sur le serveur workspace des laboratoires, vous remettrez:
 
 	* Le fichier pdf de votre rapport
 	* Vos payloads et autres scripts (ceux en annexe)
 	* S’il y a aussi un Makefile et un README c’est encore mieux.
 
 * Faites bien attention au nom du répertoire, les TPs sont récoltés par un script.
+* Au cours suivant, soit le 16 mars, vous remettrez la version imprimée de votre rapport. Vous y incluerez aussi les versions imprimées de vos scripts et payloads.
+
+<!--
 
 ## Dates et remise du TP2
 
@@ -88,10 +91,10 @@ La remise doit être électronique (pdf).
 
 * Faites bien attention au nom du répertoire, les TPs sont récoltés par un script.
 
+-->
+
 ## Dates et remise du TPS
 
 Les modalités sont les mêmes que détaillées [ici](https://info.uqam.ca/~privat/INF600C/tps/) à l'exception de:
 
- * Il est accepté de faire le TPS individuellement.
- * Il n'y a pas de remise papier à faire.
  * La date de remise est fixée au 5 mai avant 19h.
