@@ -4,8 +4,7 @@ title: INF600C - Accueil
 
 # Informations importantes
 
-* [Horaires ~~et locaux~~](http://www.etudier.uqam.ca/cours?sigle=INF600C#Horaire)
-* [Local virtuel (Conférence Zoom)](https://uqam.zoom.us/j/81228469094)
+* [Horaires et locaux](http://www.etudier.uqam.ca/cours?sigle=INF600C#Horaire)
 * [Plan de cours](http://info.uqam.ca/plan_cours/Hiver%202022/INF600C.html)
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
 * [Slides](https://github.com/ppepos/inf600c/tree/master/pres)
