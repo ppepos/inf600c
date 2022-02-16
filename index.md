@@ -145,8 +145,8 @@ Ils sont à la bibliothèque des sciences de l'UQAM et certains sont à la BANQ.
 
 ## Lectures intéressantes
 
-[Orange Tsai - A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!](https://www.youtube.com/watch?v=voTHFdL9S2k)
-[James Kettle - HTTP Desync Attacks](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
+* [Orange Tsai - A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!](https://www.youtube.com/watch?v=voTHFdL9S2k)
+* [James Kettle - HTTP Desync Attacks](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
 
 ### Anciennes sessions
 
