@@ -17,25 +17,29 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 ## Partie 1
 
-| Date  | Sujet                | Exercices                               | Laboratoire                   | Notes                 | Extras |
-|-------|----------------------|-----------------------------------------|-------------------------------|-----------------------|--------|
-| 01/12 | Introduction         | [Exercices](cours/intro.md)             | N/A                           |                       |        |
-| 01/19 | Introduction suite   |                                         | [intro](labs/01-intro.md)     |                       |        |
-| 01/26 | Exploitation système | [Exercices](cours/systeme.md)           | intro (suite)                 |                       |        |
-| 02/02 | Exploitation système |                                         | [système](labs/02-systeme.md) |                       |        |
-| 02/09 | Exploitation système | [Matière Async.](cours/systeme_next.md) | [outils](outils.md)           |                       |        |
-| 02/16 | Web                  |                                         |                               | Explications TPs      |        |
-| 02/23 | Web                  |                                         |                               | ~~Remise TP1: 02/27~~ |        |
-| 03/02 | N/A                  | N/A                                     |                               | Semaine de lecture    |        |
-| 03/09 | Examen intra         |                                         |                               | Remise TP1: 03/13     |        |
+| Date  | Sujet                | Exercices                               | Laboratoire                   | Notes                 | Extras                                  |
+|-------|----------------------|-----------------------------------------|-------------------------------|-----------------------|-----------------------------------------|
+| 01/12 | Introduction         | [Exercices](cours/intro.md)             | N/A                           |                       |                                         |
+| 01/19 | Introduction suite   |                                         | [intro](labs/01-intro.md)     |                       |                                         |
+| 01/26 | Exploitation système | [Exercices](cours/systeme.md)           | intro (suite)                 |                       |                                         |
+| 02/02 | Exploitation système |                                         | [système](labs/02-systeme.md) |                       |                                         |
+| 02/09 | Exploitation système | [Matière Async.](cours/systeme_next.md) | [outils](outils.md)           |                       |                                         |
+| 02/16 | Web                  |                                         |                               | Explications TPs      |                                         |
+| 02/23 | Web                  |                                         |                               | ~~Remise TP1: 02/27~~ |                                         |
+| 03/02 | N/A                  | N/A                                     |                               | Semaine de lecture    |                                         |
+| 03/09 | Examen intra         |                                         |                               | Remise TP1: 03/13     | [1337UP CTF](https://ctf.intigriti.io/) |
 
 ## Partie 2
 
-| Date  | Sujet                | Exercices                     | Laboratoire                   | Notes | Extras |
-|-------|----------------------|-------------------------------|-------------------------------|-------|--------|
-| 04/13 | TBD                  |                               |                               | Remise TP2: 04/17 | |
-| 04/20 | Examen final         |                               |                               | | |
-| 05/01 | N/A                  |                               |                               | Remise TPS | |
+| Date  | Sujet                                   | Exercices | Laboratoire | Notes             | Extras |
+|-------|-----------------------------------------|-----------|-------------|-------------------|--------|
+| 03/16 | Web Serveur et client                   |           |             |                   |        |
+| 03/23 | Web Client et Rétroingénierie           |           |             |                   |        |
+| 03/30 | Rétroingénierie et conférence Luis      |           |             |                   |        |
+| 04/06 | Exploitation binaire                    |           |             |                   |        |
+| 04/13 | Exploitation binaire                    |           |             | Remise TP2: 04/17 |        |
+| 04/20 | Examen final                            |           |             |                   |        |
+| 05/01 | Exploitation binaire contemporaine      |           |             | Remise TPS        |        |
 
 <!--
 
