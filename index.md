@@ -31,15 +31,15 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 ## Partie 2
 
-| Date  | Sujet                                   | Exercices | Laboratoire | Notes             | Extras |
-|-------|-----------------------------------------|-----------|-------------|-------------------|--------|
-| 03/16 | Web Serveur et client                   |           |             |                   |        |
-| 03/23 | Web Client et Rétroingénierie           |           |             |                   |        |
-| 03/30 | Rétroingénierie et conférence Luis      |           |             |                   |        |
-| 04/06 | Exploitation binaire                    |           |             |                   |        |
-| 04/13 | Exploitation binaire                    |           |             | Remise TP2: 04/17 |        |
-| 04/20 | Examen final                            |           |             |                   |        |
-| 05/01 | Exploitation binaire contemporaine      |           |             | Remise TPS        |        |
+| Date  | Sujet                              | Exercices | Laboratoire | Notes             | Extras                                     |
+|-------|------------------------------------|-----------|-------------|-------------------|--------------------------------------------|
+| 03/16 | Web Serveur et client              |           |             |                   |                                            |
+| 03/23 | Web Client et Rétroingénierie      |           |             |                   | Évaluation des enseignements débute le 28  |
+| 03/30 | Rétroingénierie et conférence Luis |           |             |                   |                                            |
+| 04/06 | Exploitation binaire               |           |             |                   |                                            |
+| 04/13 | Exploitation binaire               |           |             | Remise TP2: 04/17 | Évaluation des enseignements termine le 10 |
+| 04/20 | Examen final                       |           |             |                   |                                            |
+| 05/01 | Exploitation binaire contemporaine |           |             | Remise TPS        |                                            |
 
 <!--
 
