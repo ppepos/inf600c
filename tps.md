@@ -68,8 +68,6 @@ La remise doit être électronique (pdf).
 * Faites bien attention au nom du répertoire, les TPs sont récoltés par un script.
 * Au cours suivant, soit le 16 mars, vous remettrez la version imprimée de votre rapport. Vous y incluerez aussi les versions imprimées de vos scripts et payloads.
 
-<!--
-
 ## Dates et remise du TP2
 
 La limite de taille pour le document à rendre est de 10 pages.
@@ -77,19 +75,21 @@ La limite de taille pour le document à rendre est de 10 pages.
 Les instructions sont dans:
 
 * Répertoire `/quetes/tp2`
-* Lisez le fichiers `/quetes/tp2/*/README` pour les instructions.
+* Lisez le fichiers `/quetes/tp2/*/README*` pour les instructions.
 
 La remise doit être électronique (pdf).
 
-* Au plus tard le ~~5~~ 9 mai, 19h dans le répertoire «`tp2_remise`» dans le home de votre utilisateur sur le serveur workspace des laboratoires, vous remettrez:
+* Au plus tard le 28 avril, 12h00 (midi) dans le répertoire «`tp2_remise`» dans le home de votre utilisateur sur le serveur workspace des laboratoires, vous remettrez:
 
 	* Le fichier pdf de votre rapport
 	* Vos payloads et autres scripts (ceux en annexe)
 	* S’il y a aussi un Makefile et un README c’est encore mieux.
 
 * Faites bien attention au nom du répertoire, les TPs sont récoltés par un script.
-
--->
+* Vous remettrez également la version imprimée de votre rapport. Vous avez trois options:
+	* Au département d'informatique *avant 16h le 27 avril*
+	* Au cours du 27 avril
+	* Au début du lab, le 28 avril
 
 ## Dates et remise du TPS
 

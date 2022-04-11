@@ -39,21 +39,8 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 04/06 | Exploitation binaire et conférence Alexandre (@barberousse)     |           |                                  |                   | [Nullcon CTF](https://nullcon.net/berlin-2022/ctf/), [PlaidCTF (Difficile)](https://plaidctf.com/)                           |
 | 04/13 | Exploitation binaire                                            |           |                                  | Remise TP2: 04/17 | Évaluation des enseignements termine le 10, [dCTF](https://dragonsec.si/en/dctf), [TAMUctf](https://ctftime.org/event/15570) |
 | 04/20 | Examen final                                                    |           |                                  |                   |                                                                                                                              |
-| 05/01 | Exploitation binaire contemporaine                              |           |                                  | Remise TPS        |                                                                                                                              |
-
-<!--
-
-| Date  | Sujet                        | Laboratoire | Notes          | Extras                                          |
-|-------|------------------------------|-------------|----------------|-------------------------------------------------|
-| 03/24 | Rétro-ingénierie ([Exercices](cours/rev.md)) |             |                | VolgaCTF (27 mars)                              |
-| 03/31 | Rétro-ingénierie suite + Exploitation binaire ([Exercices](cours/pwn.md)) |             |                | [ångstromCTF (2-7 Avril)](https://angstromctf.com/)|
-| 04/07 | Exploitation binaire ([Exercices](cours/pwn2.md)) |             |                | Midnight Sun CTF (9 avr)                        |
-| 04/14 | Contre-mesures modernes ([Exercices](cours/rop.md)) |             |                | PlaidCTF (16 avr)                               |
-| 04/21 | Contre-mesures modernes      |             |                | Montréhack (20 avr 19h)                         |
-| 04/28 | Exploitation binaire moderne |             |                |                                                 |
-| 05/05 | Examen final                 |             |                | Northsec (20-28 mai)                            |
-
--->
+| 04/27 | Exploitation binaire contemporaine                              |           |                                  | Remise TP2        |                                                                                                                              |
+| 05/01 |                                                                 |           |                                  | Remise TPS        |                                                                                                                              |
 
 # Support et contacts
 
