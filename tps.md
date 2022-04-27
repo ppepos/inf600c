@@ -95,4 +95,4 @@ La remise doit être électronique (pdf).
 
 Les modalités sont les mêmes que détaillées [ici](https://info.uqam.ca/~privat/INF600C/tps/) à l'exception de:
 
- * La date de remise est fixée au 5 mai avant 19h.
+ * La date de remise est fixée au 1 mai avant 19h.
