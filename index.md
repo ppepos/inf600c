@@ -8,8 +8,6 @@ title: INF600C - Accueil
 * [Plan de cours](http://info.uqam.ca/plan_cours/Hiver%202022/INF600C.html)
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
 * [Slides](https://github.com/ppepos/inf600c/tree/master/pres)
-* [Page des videos](videos.md)
-* [Page des TPs](tps.md)
 
 # Échéancier
 
@@ -19,41 +17,38 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 | Date  | Sujet                | Exercices                               | Laboratoire                   | Notes                 | Extras                                  |
 |-------|----------------------|-----------------------------------------|-------------------------------|-----------------------|-----------------------------------------|
-| 01/12 | Introduction         | [Exercices](cours/intro.md)             | N/A                           |                       |                                         |
-| 01/19 | Introduction suite   |                                         | [intro](labs/01-intro.md)     |                       |                                         |
-| 01/26 | Exploitation système | [Exercices](cours/systeme.md)           | intro (suite)                 |                       |                                         |
-| 02/02 | Exploitation système |                                         | [système](labs/02-systeme.md) |                       |                                         |
-| 02/09 | Exploitation système | [Matière Async.](cours/systeme_next.md) | [outils](outils.md)           |                       |                                         |
-| 02/16 | Web                  |                                         |                               | Explications TPs      |                                         |
-| 02/23 | Web                  |                                         |                               | ~~Remise TP1: 02/27~~ |                                         |
-| 03/02 | N/A                  | N/A                                     |                               | Semaine de lecture    |                                         |
-| 03/09 | Examen intra         |                                         |                               | Remise TP1: 03/13     | [1337UP CTF](https://ctf.intigriti.io/) |
+| 01/11 | Introduction         | [Exercices](cours/intro.md)             | N/A                           |                       |                                         |
+| 01/18 | Exploitation système | [Exercices](cours/systeme.md)           | [intro](labs/01-intro.md)     |                       |                                         |
+| 01/25 | Exploitation système |                                         | intro (suite)                 |                       |                                         |
+| 02/01 | Exploitation système et web | [Matière Async.](cours/systeme_next.md) | [système](labs/02-systeme.md) |                       |                                         |
+| 02/08 | Web                  |                                         |                               |                       |                                         |
+| 02/15 | Web                  |                                         |                               |                       |                                         |
+| 02/22 | Web                  |                                         |                               |                       |                                         |
+| 03/01 | N/A                  | N/A                                     |                               | Semaine de lecture    |                                         |
+| 03/08 | Examen intra         |                                         |                               |                       |                                         |
 
 ## Partie 2
 
-| Date  | Sujet                                                           | Exercices | Laboratoire                      | Notes             | Extras                                                                                                                       |
-|-------|-----------------------------------------------------------------|-----------|----------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------|
-| 03/16 | Web Serveur et client                                           |           |                                  |                   |                                                                                                                              |
-| 03/23 | Web Client et conférence Félix et Nicolas (@sideni, @nic-lovin) |           |                                  |                   | Évaluation des enseignements débute le 28                                                                                    |
-| 03/30 | Rétroingénierie et conférence Luis (@hellnia)                   |           | [Rev et pwn](labs/08-rev-pwn.md) |                   | [UMass CTF](https://ctftime.org/event/1561), [Midnight Sun CTF](https://ctftime.org/event/1474)                              |
-| 04/06 | Exploitation binaire et conférence Alexandre (@barberousse)     |           |                                  |                   | [Nullcon CTF](https://nullcon.net/berlin-2022/ctf/), [PlaidCTF (Difficile)](https://plaidctf.com/)                           |
-| 04/13 | Exploitation binaire                                            |           |                                  | Remise TP2: 04/17 | Évaluation des enseignements termine le 10, [dCTF](https://dragonsec.si/en/dctf), [TAMUctf](https://ctftime.org/event/15570) |
-| 04/20 | Examen final                                                    |           |                                  |                   |                                                                                                                              |
-| 04/27 | Exploitation binaire contemporaine                              |           |                                  | Remise TP2        |                                                                                                                              |
-| 05/01 |                                                                 |           |                                  | Remise TPS        |                                                                                                                              |
+| Date  | Sujet                                                           | Exercices | Laboratoire                      | Notes             | Extras |
+|-------|-----------------------------------------------------------------|-----------|----------------------------------|-------------------|--------|
+| 03/15 | Rétroingénierie                                                 |           |                                  |                   |        |
+| 03/22 | Exploitation binaire                                            |           |                                  |                   |        |
+| 03/29 | Exploitation binaire                                            |           |                                  |                   |        |
+| 04/05 | Exploitation binaire moderne                                    |           |                                  |                   |        |
+| 04/12 | Exploitation binaire moderne et contemporaine                   |           |                                  | Remise TP2: 04/17 |        |
+| 04/19 | Exploitation binaire contemporaine                              |           |                                  |                   |        |
+| 04/26 | Examen final                                                    |           |                                  | Remise TP2        |        |
 
 # Support et contacts
 
 * Professeur: <pepos-petitclerc.philippe@uqam.ca>
-* Démonstrateurs et support: 
+* Démonstrateurs et support: Carl-Elliot Bilodeau-Savaria
 * Canal de discussion officiel: [Mattermost Officiel](https://mattermost.info.uqam.ca/forum/channels/inf600c)
-* Canal de discussion officieux: Il y a un canal sur le slack de l'asso étudiante.
+* Canal de discussion officieux: Il y a un canal sur le discord de l'association étudiante.
 
 # Laboratoires
 
 Les laboratoires ont lieu dans un environnement dédié. Comme nous allons attaquer des services qui sont déployés à l'intérieur de l'UQAM, il est important que tout le monde signe l'[entente disponible ici](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf).
-
-De façon optionnelle, vous pouvez créer un compte anonyme sur [le scoreboard](http://scoreboard.kaa/) afin de mesurer votre progression dans les exercices. Votre score dans le scoreboard n'a aucune incidence sur votre évaluation dans le cadre du cours. Le scoreboard est hébergé à l'interne, il faut donc suivre la procédure pour les [services web](#Services-web) pour pouvoir y accéder.
 
 La connexion à l'environnement se fait via ssh grâce au login et mot de passe qui vous a été envoyé par courriel
 
@@ -93,6 +88,7 @@ Le logiciel [Burp](https://portswigger.net/burp/communitydownload) peut être ut
 
 # Ressources
 
+* [Page des videos (anciennes sessions)](videos.md)
 * [Aide mémoire Pep/8 (version INF600C)](https://info.uqam.ca/~privat/INF600C/aide-pep8.pdf)
 
 ## Livres
