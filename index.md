@@ -4,7 +4,7 @@ title: INF600C - Accueil
 
 # Informations importantes
 
-* [Horaires et locaux](http://www.etudier.uqam.ca/cours?sigle=INF600C#Horaire)
+* [Horaires et locaux](https://etudier.uqam.ca/cours?sigle=INF600C#horaire1)
 * [Plan de cours](http://info.uqam.ca/plan_cours/Hiver%202022/INF600C.html)
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
 * [Slides](https://github.com/ppepos/inf600c/tree/master/pres)
