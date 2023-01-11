@@ -17,8 +17,8 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 | Date  | Sujet                | Exercices                               | Laboratoire                   | Notes                 | Extras                                  |
 |-------|----------------------|-----------------------------------------|-------------------------------|-----------------------|-----------------------------------------|
-| 01/11 | Introduction         | [Exercices](cours/intro.md)             | N/A                           |                       |                                         |
-| 01/18 | Exploitation système | [Exercices](cours/systeme.md)           | [intro](labs/01-intro.md)     |                       |                                         |
+| 01/11 | Introduction         | [Exercices](cours/intro.md)             | [intro](labs/01-intro.md)                           |                       |                                         |
+| 01/18 | Exploitation système | [Exercices](cours/systeme.md)           |      |                       |                                         |
 | 01/25 | Exploitation système |                                         | intro (suite)                 |                       |                                         |
 | 02/01 | Exploitation système et web | [Matière Async.](cours/systeme_next.md) | [système](labs/02-systeme.md) |                       |                                         |
 | 02/08 | Web                  |                                         |                               |                       |                                         |
