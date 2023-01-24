@@ -14,7 +14,7 @@ curl -x socks5h://localhost:2223 http://workspace.kaa/
 
 Même chose avec votre navigateur.
 
-Si ce n'est pas le cas, référez-vous à la Laboratoires de la page principale. Des chose à vérifier:
+Si ce n'est pas le cas, référez-vous à la section Laboratoires de la page principale. Des chose à vérifier:
 
  - Vous avez une connexion ssh d'établie avec l'option -D 2223.
  - Chromium: Vous l'avez bien lancé avec l'option proxy-pac
