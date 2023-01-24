@@ -1,12 +1,6 @@
 ---
-title: Exploitation système (Fin)
+title: Exploitation noyau
 ---
-
-# Shell
-
-## Shellshock
-
- - [Présentation sur Shellshock](https://uqam-my.sharepoint.com/:v:/g/personal/pepos-petitclerc_philippe_uqam_ca/ESRh-JEAKlxGoVAqkJ15lukB26MS9xf64zkE3fVXUqny8Q?e=rZIrjr)
 
 # Noyau des systèmes d'exploitation
 
