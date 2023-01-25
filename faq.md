@@ -37,7 +37,7 @@ if(access(argv[1], R_OK) == 0) {
 
 Souvenons nous du fonctionnement des bits SetUID et SetGID. Un programme SetUID s'exécute avec l'utilisateur propriétaire du fichier en tant qu'utilisateur effectif.
 
-Pour illustrer, voici un petit programme démo qui imprimme sont utilisateur effectif.
+Pour illustrer, voici un petit programme démo qui imprimme son utilisateur effectif.
 
 ```c
 #define _GNU_SOURCE
