@@ -56,7 +56,7 @@ int main() {
 }
 ```
 
-En positionnant l'exécutable en suid 0 (root), on remarque que l'uid effectif du processus est bien `0 (root)` et que son uid réel reste celui le l'utilisateur actuel (1000).
+En positionnant l'exécutable en suid 0 (root), on remarque que l'uid effectif du processus est bien `0 (root)` et que son uid réel reste celui le l'utilisateur actuel (1000). (Attention, le `1` dans le listing suivant est le nombre de liens durs le propriétaires et le groupe propriétaire est `0`)
 
 ```
 $ id -u
