@@ -21,7 +21,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 01/11 | Introduction         | [Exercices](cours/intro.md)             | [intro](labs/01-intro.md) |                    |        |
 | 01/18 | Exploitation système | [Exercices](cours/systeme.md)           | [sys](labs/02-systeme.md) |                    |        |
 | 01/25 | Exploitation système | [Matière Async.](cours/systeme_next.md) | intro et sys avancés      |                    |        |
-| 02/01 | Web                  |                                         | [web](labs/03-web.md)     |                    |        |
+| 02/01 | Fin système, Web     |                                         | [web](labs/03-web.md)     |                    |        |
 | 02/08 | Web                  |                                         |                           |                    |        |
 | 02/15 | Web                  |                                         |                           |                    |        |
 | 02/22 | Web                  |                                         |                           |                    |        |
