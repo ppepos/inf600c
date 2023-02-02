@@ -43,7 +43,7 @@ Disponible sur [http://www.weapon.shoppe.kaa/](http://www.weapon.shoppe.kaa/).
 
 ## Registre
 
-Disponible sur [http://back.alley.kaa](http://back.alley.kaa).
+Disponible sur [http://registre.kaa](http://registre.kaa).
 
 ### Objectifs
 
