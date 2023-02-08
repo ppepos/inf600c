@@ -8,6 +8,7 @@ title: INF600C - Accueil
 * [Plan de cours](http://info.uqam.ca/plan_cours/Hiver%202022/INF600C.html)
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
 * [Slides](https://github.com/ppepos/inf600c/tree/master/pres)
+* [Travaux pratiques](https://github.com/ppepos/inf600c/tree/master/pres)
 * [Questions](faq.md)
 
 # Échéancier
@@ -22,23 +23,23 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 01/18 | Exploitation système | [Exercices](cours/systeme.md)           | [sys](labs/02-systeme.md) |                    |        |
 | 01/25 | Exploitation système | [Matière Async.](cours/systeme_next.md) | intro et sys avancés      |                    |        |
 | 02/01 | Fin système, Web     |                                         | [web](labs/03-web.md)     |                    |        |
-| 02/08 | Web                  |                                         |                           |                    |        |
-| 02/15 | Web                  |                                         |                           |                    |        |
+| 02/08 | Web                  |                                         | web suite                 | [TP1](tps.md)      |        |
+| 02/15 | Web                  |                                         | web suite                 |                    |        |
 | 02/22 | Web                  |                                         |                           |                    |        |
 | 03/01 | N/A                  | N/A                                     |                           | Semaine de lecture |        |
 | 03/08 | Examen intra         |                                         |                           |                    |        |
 
 ## Partie 2
 
-| Date  | Sujet                                                           | Exercices | Laboratoire                      | Notes             | Extras |
-|-------|-----------------------------------------------------------------|-----------|----------------------------------|-------------------|--------|
-| 03/15 | Rétroingénierie                                                 |           |                                  |                   |        |
-| 03/22 | Exploitation binaire                                            |           |                                  |                   |        |
-| 03/29 | Exploitation binaire                                            |           |                                  |                   |        |
-| 04/05 | Exploitation binaire moderne                                    |           |                                  |                   |        |
-| 04/12 | Exploitation binaire moderne et contemporaine                   |           |                                  | Remise TP2: 04/17 |        |
-| 04/19 | Exploitation binaire contemporaine                              |           |                                  |                   |        |
-| 04/26 | Examen final                                                    |           |                                  | Remise TP2        |        |
+| Date  | Sujet                                         | Exercices | Laboratoire | Notes | Extras |
+|-------|-----------------------------------------------|-----------|-------------|-------|--------|
+| 03/15 | Rétroingénierie                               |           |             |       |        |
+| 03/22 | Exploitation binaire                          |           |             |       |        |
+| 03/29 | Exploitation binaire                          |           |             |       |        |
+| 04/05 | Exploitation binaire moderne                  |           |             |       |        |
+| 04/12 | Exploitation binaire moderne et contemporaine |           |             |       |        |
+| 04/19 | Exploitation binaire contemporaine            |           |             |       |        |
+| 04/26 | Examen final                                  |           |             |       |        |
 
 # Support et contacts
 
