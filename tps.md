@@ -102,6 +102,7 @@ Les modalités sont les mêmes que détaillées [ici](https://info.uqam.ca/~priv
  * La version papier est à remettre dans la chute à travaux du département d'informatique (PK, 4e étage près des ascenseurs)
 
 Voici également une liste CTFs préauthorisés. Si vous souhaitez participer à un CTF qui n'est pas dans cette liste, faites le approuver au préalable.
+Vous trouverez plus d'information sur chacun sur [CTF Time](https://ctftime.org) (site web, style, anciens défis pour vous préparer, inscription, etc.).
 
 ```
 Sat Feb 18 07:00:00 AM EST 2023 "HackTM CTF Quals 2023"
