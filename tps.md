@@ -61,12 +61,12 @@ Les instructions sont dans:
 
 La remise doit être électronique (pdf).
 
-* Au plus tard le lundi 14 mars, 13h dans le répertoire «`tp1_remise`» dans le home de votre utilisateur sur le serveur workspace des laboratoires, vous remettrez:
+* Au plus tard le lundi 27 mars, 13h dans le répertoire «`tp1_remise`» dans le home de votre utilisateur sur le serveur workspace des laboratoires, vous remettrez:
 	* Le fichier pdf de votre rapport
 	* Vos payloads et autres scripts (ceux en annexe)
 	* S’il y a aussi un Makefile et un README c’est encore mieux.
 * Faites bien attention au nom du répertoire, les TPs sont récoltés par un script.
-* Au cours suivant, soit le 15 mars, vous remettrez la version imprimée de votre rapport. Vous y incluerez aussi les versions imprimées de vos scripts et payloads.
+* Au cours suivant, soit le 29 mars, vous remettrez la version imprimée de votre rapport. Vous y incluerez aussi les versions imprimées de vos scripts et payloads.
 
 <!-- 
 ## Dates et remise du TP2
