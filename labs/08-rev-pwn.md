@@ -23,7 +23,7 @@ Vous pouvez faire les exercices disponibles dans `/quetes/09-pwn/`
 `/quetes/09-pwn/rouge`
 `nc localhost 4943`
 
-Rouge était initialement fait pour se réussir avec ASLR activé. Vous pouvez donc également l'essayer directement sur workspace.
+Rouge était initialement fait pour se réussir avec ASLR activé. Vous pouvez donc également l'essayer directement sur workspace lorsque nous aurons couvert ASLR en classe.
 
 ## Exercices additionnels
 Phoenix est une machine virtuelle d'apprentissage d'exploitation binaire populaire. Nous vous l'avons rendue disponible dans le lab également. À partir de workspace, vous pouvez vous connecter à `phoenix` avec vos même accès.

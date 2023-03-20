@@ -31,15 +31,15 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 ## Partie 2
 
-| Date  | Sujet                                         | Exercices | Laboratoire | Notes | Extras |
-|-------|-----------------------------------------------|-----------|-------------|-------|--------|
-| 03/15 | Rétroingénierie                               |           |             |       |        |
-| 03/22 | Exploitation binaire                          |           |             |       |        |
-| 03/29 | Exploitation binaire                          |           |             |       |        |
-| 04/05 | Exploitation binaire moderne                  |           |             |       |        |
-| 04/12 | Exploitation binaire moderne et contemporaine |           |             |       |        |
-| 04/19 | Exploitation binaire contemporaine            |           |             |       |        |
-| 04/26 | Examen final                                  |           |             |       |        |
+| Date  | Sujet                                         | Exercices | Laboratoire               | Notes | Extras |
+|-------|-----------------------------------------------|-----------|---------------------------|-------|--------|
+| 03/15 | Rétroingénierie                               |           | [rev](labs/08-rev-pwn.md) |       |        |
+| 03/22 | Exploitation binaire                          |           | [pwn](labs/08-rev-pwn.md) |       |        |
+| 03/29 | Exploitation binaire                          |           | [pwn](labs/08-rev-pwn.md) |       |        |
+| 04/05 | Exploitation binaire moderne                  |           |                           |       |        |
+| 04/12 | Exploitation binaire moderne et contemporaine |           |                           |       |        |
+| 04/19 | Exploitation binaire contemporaine            |           |                           |       |        |
+| 04/26 | Examen final                                  |           |                           |       |        |
 
 # Support et contacts
 
