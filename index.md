@@ -44,6 +44,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 # Support et contacts
 
 * Professeur: <pepos-petitclerc.philippe@uqam.ca>
+  * Heures de bureau: Jeudi 13h00-16h30 (PK-5722)
 * Démonstrateurs et support: Carl-Elliot Bilodeau-Savaria (@normalaccount): bilodeau-savaria.carl-elliott@uqam.ca
 * Canal de discussion officiel: [Mattermost Officiel](https://mattermost.info.uqam.ca/forum/channels/inf600c)
 * Canal de discussion officieux: Il y a un canal sur le discord de l'association étudiante.
