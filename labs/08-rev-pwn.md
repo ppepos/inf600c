@@ -19,11 +19,14 @@ Vous pouvez faire les exercices disponibles dans `/quetes/09-pwn/`
 ### Carte
 `/quetes/09-pwn/carte`
 `nc localhost 4942`
+
+<!--
 ### Rouge
 `/quetes/09-pwn/rouge`
 `nc localhost 4943`
 
 Rouge était initialement fait pour se réussir avec ASLR activé. Vous pouvez donc également l'essayer directement sur workspace lorsque nous aurons couvert ASLR en classe.
+-->
 
 ## Exercices additionnels
 Phoenix est une machine virtuelle d'apprentissage d'exploitation binaire populaire. Nous vous l'avons rendue disponible dans le lab également. À partir de workspace, vous pouvez vous connecter à `phoenix` avec vos même accès.
@@ -35,7 +38,7 @@ ssh USER@phoenix
 
 À l'exception des accès utilisateurs `root` et `user`, vous pouvez utiliser l'information du *Getting Started* officiel. Sur le site de documentation, vous aurez également le code source de chaque exercice.
 
-[Site officiel.](http://exploit.education/phoenix/getting-started/)
-[Premier exercice](http://exploit.education/phoenix/stack-zero/)
+- [Site officiel.](http://exploit.education/phoenix/getting-started/)
+- [Premier exercice](http://exploit.education/phoenix/stack-zero/)
 
 Vous pouvez vous rendre aussi loin que vous voulez.
