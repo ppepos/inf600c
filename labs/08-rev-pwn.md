@@ -36,7 +36,7 @@ ssh USER@workspace.inf600c.uqam.ca
 ssh USER@phoenix
 ```
 
-À l'exception des accès utilisateurs `root` et `user`, vous pouvez utiliser l'information du *Getting Started* officiel. Sur le site de documentation, vous aurez également le code source de chaque exercice.
+À l'exception des accès utilisateurs `root` et `user`, vous pouvez utiliser l'information du *Getting Started* officiel. Sur le site de documentation, vous aurez également le code source de chaque exercice. Les exercices sont disponibles en différentes architectures. (les plus pertinents: 32 bits, `/opt/phoenix/i486` et 64 bits `/opt/phoenix/amd64`)
 
 - [Site officiel.](http://exploit.education/phoenix/getting-started/)
 - [Premier exercice](http://exploit.education/phoenix/stack-zero/)
