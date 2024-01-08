@@ -4,7 +4,7 @@ title: INF600C - Laboratoire 1
 
 # Entente UQAM
 
-Envoyez moi un courriel, avec l'entente en pièce jointe, qui dit que vous acceptez les termes de l'entente. Ça agira à titre de signature pour la session à distance. Si je n'ai pas votre entente
+Envoyez moi un courriel, avec l'entente en pièce jointe, qui dit que vous acceptez les termes de l'entente. Ça agira à titre de signature.
 
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf)
 * Mon courriel: <pepos-petitclerc.philippe@uqam.ca>

@@ -5,10 +5,9 @@ title: INF600C - Accueil
 # Informations importantes
 
 * [Horaires et locaux](https://etudier.uqam.ca/cours?sigle=INF600C#horaire1)
-* [Plan de cours](http://info.uqam.ca/plan_cours/Hiver%202022/INF600C.html)
+* [Plan de cours](http://info.uqam.ca/plan_cours/Hiver%202023/INF600C.html)
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
 * [Slides](https://github.com/ppepos/inf600c/tree/master/pres)
-* [Travaux pratiques](tps.md)
 * [Questions](faq.md)
 
 # Échéancier
@@ -17,35 +16,35 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 ## Partie 1
 
-| Date  | Sujet                | Exercices                               | Laboratoire               | Notes              | Extras |
-|-------|----------------------|-----------------------------------------|---------------------------|--------------------|--------|
-| 01/11 | Introduction         | [Exercices](cours/intro.md)             | [intro](labs/01-intro.md) |                    |        |
-| 01/18 | Exploitation système | [Exercices](cours/systeme.md)           | [sys](labs/02-systeme.md) |                    |        |
-| 01/25 | Exploitation système | [Matière Async.](cours/systeme_next.md) | intro et sys avancés      |                    |        |
-| 02/01 | Fin système, Web     |                                         | [web](labs/03-web.md)     |                    |        |
-| 02/08 | Web                  |                                         | web suite                 | [TP1](tps.md)      |        |
-| 02/15 | Web                  |                                         | web suite                 |                    |        |
-| 02/22 | Web                  |                                         |                           |                    |        |
-| 03/01 | N/A                  | N/A                                     |                           | Semaine de lecture |        |
-| 03/08 | Examen intra         |                                         |                           |                    |        |
+| Date    | Sujet                  | Exercices                                 | Laboratoire                 | Notes                | Extras   |
+| ------- | ---------------------- | ----------------------------------------- | --------------------------- | -------------------- | -------- |
+| 01/10   | Introduction           | [Exercices](cours/intro.md)               | [intro](labs/01-intro.md)   |                      |          |
+| 01/17   | Exploitation système   | [Exercices](cours/systeme.md)             | [sys](labs/02-systeme.md)   |                      |          |
+| 01/24   | Exploitation système   | [Matière Async.](cours/systeme_next.md)   | intro et sys avancés        |                      |          |
+| 01/31   | Noyau et Web           |                                           |                             |                      |          |
+| 02/07   | Web                    |                                           |                             |                      |          |
+| 02/14   | Web                    |                                           |                             |                      |          |
+| 02/21   | Web                    |                                           |                             |                      |          |
+| *03/28* | *N/A*                  | *N/A*                                     |                             | *Semaine de lecture* |          |
+| 03/06   | Examen intra           |                                           |                             |                      |          |
 
 ## Partie 2
 
-| Date  | Sujet                                         | Exercices | Laboratoire               | Notes | Extras |
-|-------|-----------------------------------------------|-----------|---------------------------|-------|--------|
-| 03/15 | Rétroingénierie                               |           | [rev](labs/08-rev-pwn.md) |       |        |
-| 03/22 | Exploitation binaire                          |           | [pwn](labs/08-rev-pwn.md) |       |        |
-| 03/29 | Exploitation binaire                          |           | [pwn](labs/08-rev-pwn.md) |       |        |
-| 04/05 | Exploitation binaire moderne                  |           |                           |       |        |
-| 04/12 | Exploitation binaire moderne et contemporaine |           |                           |       |        |
-| 04/19 | Exploitation binaire contemporaine            |           |                           |       |        |
-| 04/26 | Examen final                                  |           |                           |       |        |
+| Date    | Sujet                                           | Exercices   | Laboratoire                 | Notes   | Extras   |
+| ------- | ----------------------------------------------- | ----------- | --------------------------- | ------- | -------- |
+| 03/13   | Rétroingénierie                                 |             |                             |         |          |
+| 03/20   | Exploitation binaire                            |             |                             |         |          |
+| 03/27   | Exploitation binaire                            |             |                             |         |          |
+| 04/03   | Exploitation binaire moderne                    |             |                             |         |          |
+| 04/10   | Exploitation binaire moderne et contemporaine   |             |                             |         |          |
+| 04/17   | Exploitation binaire contemporaine              |             |                             |         |          |
+| 04/24   | Examen final                                    |             |                             |         |          |
 
 # Support et contacts
 
 * Professeur: <pepos-petitclerc.philippe@uqam.ca>
-  * Heures de bureau: Jeudi 13h00-16h30 (PK-5722)
-* Démonstrateurs et support: Carl-Elliot Bilodeau-Savaria (@normalaccount): bilodeau-savaria.carl-elliott@uqam.ca
+  * Heures de bureau: Mardi 13h30-15h30 (PK-5722)
+* Démonstrateurs et support: Marc-Antoine Lavallée (@marcolpogo): <lavallee.marc-antoine.2@uqam.ca>
 * Canal de discussion officiel: [Mattermost Officiel](https://mattermost.info.uqam.ca/forum/channels/inf600c)
 * Canal de discussion officieux: Il y a un canal sur le discord de l'association étudiante.
 
@@ -103,8 +102,7 @@ Le logiciel [Burp](https://portswigger.net/burp/communitydownload) peut être ut
 * M SIKORSKI, A. HONIG -- Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software -- No Starch Press, 2012.
 * T KLEIN -- Bug Hunter’s Diary: A Guided Tour Through the Wilds of Software Security  - No Starch Press, 2011.
 * C ANLEY, J. HEASMAN, F. LINDNER, G. RICHARTE -- The Shellcoder’s Handbook: Discovering and Exploiting Security Holes (2e édition) -- Wiley, 2007.
-* B NIKKEL -- Practical Forensic Imaging, Securing Digital Evidence with Linux Tools --
- No Starch​ ​Press,​ ​2016.
+* B NIKKEL -- Practical Forensic Imaging, Securing Digital Evidence with Linux Tools -- No Starch Press, 2016.
 
 Ils sont à la bibliothèque des sciences de l'UQAM et certains sont à la BANQ.
 
@@ -128,22 +126,16 @@ Ils sont à la bibliothèque des sciences de l'UQAM et certains sont à la BANQ.
 * [CTF Guide](https://trailofbits.github.io/ctf/)
 * [CTF time](http://ctftime.org)
 
-## Aide et discussions slack
-
-* [#INF600C](https://ageei-uqam.slack.com/messages/inf600c/) - chan du cours
-* [#ctf](https://ageei-uqam.slack.com/messages/ctf/) - aide pour le CTF de l'AGEEI
-* [#securite](https://ageei-uqam.slack.com/messages/securite/) - discussion et nouvelles sur la sécurité informatique en général
-
 ## Lectures intéressantes
 
-* [Orange Tsai - A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!](https://www.youtube.com/watch?v=voTHFdL9S2k)
-* [James Kettle - HTTP Desync Attacks](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
 * [Exploitation d'injections SQL par PortSwigger](https://portswigger.net/web-security/sql-injection)
 
 ### Anciennes sessions
 
 * [Attaque sur `mt_rand()` de PHP](https://www.ambionics.io/blog/php-mt-rand-prediction)
 * [Explication haut-niveau de la vulnérabilité de validation ECC dans `crypt32.dll`](https://medium.com/zengo/win10-crypto-vulnerability-cheating-in-elliptic-curve-billiards-2-69b45f2dcab6)
+* [Orange Tsai - A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!](https://www.youtube.com/watch?v=voTHFdL9S2k)
+* [James Kettle - HTTP Desync Attacks](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
 
 ## Autres liens
 
