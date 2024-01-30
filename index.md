@@ -8,6 +8,7 @@ title: INF600C - Accueil
 * [Plan de cours](http://info.uqam.ca/plan_cours/Hiver%202023/INF600C.html)
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
 * [Slides](https://github.com/ppepos/inf600c/tree/master/pres)
+* [Page des TPs](tps.md)
 * [Questions](faq.md)
 
 # Échéancier
@@ -16,17 +17,17 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 ## Partie 1
 
-| Date    | Sujet                  | Exercices                                 | Laboratoire                 | Notes                | Extras   |
-| ------- | ---------------------- | ----------------------------------------- | --------------------------- | -------------------- | -------- |
-| 01/10   | Introduction           | [Exercices](cours/intro.md)               | [intro](labs/01-intro.md)   |                      |          |
-| 01/17   | Exploitation système   | [Exercices](cours/systeme.md)             | [sys](labs/02-systeme.md)   |                      |          |
-| 01/24   | Exploitation système   | [Matière Async.](cours/systeme_next.md)   | intro et sys avancés        |                      |          |
-| 01/31   | Noyau et Web           |                                           |                             |                      |          |
-| 02/07   | Web                    |                                           |                             |                      |          |
-| 02/14   | Web                    |                                           |                             |                      |          |
-| 02/21   | Web                    |                                           |                             |                      |          |
-| *03/28* | *N/A*                  | *N/A*                                     |                             | *Semaine de lecture* |          |
-| 03/06   | Examen intra           |                                           |                             |                      |          |
+| Date    | Sujet                  | Exercices                                 | Laboratoire                 | Notes                                 | Extras   |
+| ------- | ---------------------- | ----------------------------------------- | --------------------------- | ------------------------------------- | -------- |
+| 01/10   | Introduction           | [Exercices](cours/intro.md)               | [intro](labs/01-intro.md)   |                                       |          |
+| 01/17   | Exploitation système   | [Exercices](cours/systeme.md)             | [sys](labs/02-systeme.md)   |                                       |          |
+| 01/24   | Exploitation système   | [Matière Async.](cours/systeme_next.md)   | intro et sys avancés        |                                       |          |
+| 01/31   | Noyau et Web           |                                           |                             | [TP1](tps.md)                           |          |
+| 02/07   | Web                    |                                           |                             |                                       |          |
+| 02/14   | Web                    |                                           |                             |                                       |          |
+| 02/21   | Web                    |                                           |                             |                                       |          |
+| *02/28* | *N/A*                  | *N/A*                                     |                             | *Semaine de lecture*, Remise TP1 (26) |          |
+| 03/06   | Examen intra           |                                           |                             |                                       |          |
 
 ## Partie 2
 

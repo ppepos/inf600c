@@ -61,13 +61,14 @@ Les instructions sont dans:
 
 La remise doit être électronique (pdf).
 
-* Au plus tard le lundi 27 mars, 13h dans le répertoire «`tp1_remise`» dans le home de votre utilisateur sur le serveur workspace des laboratoires, vous remettrez:
+* Au plus tard le lundi 26 février, 12h dans le répertoire «`tp1_remise`» dans le home de votre utilisateur sur le serveur workspace des laboratoires, vous remettrez:
 	* Le fichier pdf de votre rapport
 	* Vos payloads et autres scripts (ceux en annexe)
 	* S’il y a aussi un Makefile et un README c’est encore mieux.
 * Faites bien attention au nom du répertoire, les TPs sont récoltés par un script.
-* Au cours suivant, soit le 29 mars, vous remettrez la version imprimée de votre rapport. Vous y incluerez aussi les versions imprimées de vos scripts et payloads.
+<!-- * Au cours suivant, soit le 29 mars, vous remettrez la version imprimée de votre rapport. Vous y incluerez aussi les versions imprimées de vos scripts et payloads. -->
 
+<!--
 ## Dates et remise du TP2
 
 La limite de taille pour le document à rendre est de 10 pages.
@@ -89,6 +90,7 @@ La remise doit être électronique (pdf).
 * Vous remettrez également la version imprimée de votre rapport. Vous avez trois options:
 	* Au département d'informatique *avant 16h le 30 avril*
 	* Au cours du 26 avril
+-->
 
 ## Dates et remise du TPS
 
@@ -101,17 +103,18 @@ Voici également une liste CTFs préauthorisés. Si vous souhaitez participer à
 Vous trouverez plus d'information sur chacun sur [CTF Time](https://ctftime.org) (site web, style, anciens défis pour vous préparer, inscription, etc.).
 
 ```
-Sat Feb 18 07:00:00 AM EST 2023 "HackTM CTF Quals 2023"
-Sat Feb 18 09:00:00 AM EST 2023 "pbctf 2023"
-Fri Mar 10 11:00:00 AM EST 2023 "hxp CTF 2022"
-Mon Mar 13 03:00:00 PM EST 2023 "HackDay Qualifications 2023" ^1
-Fri Mar 17 05:00:00 PM EST 2023 "b01lers CTF"
-Fri Mar 24 07:00:00 PM EST 2023 "LINE CTF 2023"
-Sat Apr  1 01:00:00 PM EST 2023 "Securinets CTF Quals 2023"
-Thu Apr  6 07:00:00 PM EST 2023 "DamCTF 2023"
-Sat Apr  8 06:00:00 AM EST 2023 "Midnight Sun CTF 2023 Quals"
-Fri Apr 14 04:00:00 PM EST 2023 "PlaidCTF 2023"
-Sat Apr 22 07:00:00 AM EST 2023 "ångstromCTF 2023"
+Fri Feb  2 04:00:00 PM EST 2024 "DiceCTF 2024 Quals" ^1
+Fri Feb  9 08:00:00 AM EST 2024 "0xL4ugh CTF 2024"
+Fri Feb 16 11:00:00 PM EST 2024 "LA CTF 2024"
+Sat Feb 24 07:00:00 AM EST 2024 "bi0sCTF 2024" ^1
+Fri Mar  8 07:00:00 AM EST 2024 "Pearl CTF"
+Fri Mar  8 07:00:00 PM EST 2024 "WxMCTF 2024"
+Fri Mar 15 12:00:00 PM EST 2024 "KalmarCTF 2024"
+Fri Mar 15 04:00:00 PM EST 2024 "1753CTF 2024"
+Fri Mar 22 07:00:00 PM EST 2024 "LINE CTF 2024"
+Sat Mar 23 11:00:00 AM EST 2024 "JerseyCTF IV"
+Sat Mar 30 10:00:00 AM EST 2024 "VolgaCTF 2024 Qualifier"
+Fri Apr  5 05:00:00 PM EST 2024 "TAMUctf 2024"
 ```
 
-^1: Historiquement trop facile. Attention d'avoir assez de substance.
+^1: Mi-ours, mi-scorpion et re-mi-ours derrière (difficile, mais bien)
