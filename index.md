@@ -22,8 +22,8 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 01/10   | Introduction           | [Exercices](cours/intro.md)               | [intro](labs/01-intro.md)   |                                       |          |
 | 01/17   | Exploitation système   | [Exercices](cours/systeme.md)             | [sys](labs/02-systeme.md)   |                                       |          |
 | 01/24   | Exploitation système   | [Matière Async.](cours/systeme_next.md)   | intro et sys avancés        |                                       |          |
-| 01/31   | Noyau et Web           |                                           |                             | [TP1](tps.md)                           |          |
-| 02/07   | Web                    |                                           |                             |                                       |          |
+| 01/31   | Noyau et Web           |                                           |                             | [TP1](tps.md)                         |          |
+| 02/07   | Web                    |                                           | [web](labs/03-web.md)       |                                       |          |
 | 02/14   | Web                    |                                           |                             |                                       |          |
 | 02/21   | Web                    |                                           |                             |                                       |          |
 | *02/28* | *N/A*                  | *N/A*                                     |                             | *Semaine de lecture*, Remise TP1 (26) |          |
