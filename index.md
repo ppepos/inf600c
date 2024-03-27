@@ -33,10 +33,10 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 | Date    | Sujet                                           | Exercices   | Laboratoire                 | Notes   | Extras   |
 | ------- | ----------------------------------------------- | ----------- | --------------------------- | ------- | -------- |
-| 03/13   | Rétroingénierie                                 |             |                             |         |          |
-| 03/20   | Exploitation binaire                            |             |                             |         |          |
-| 03/27   | Exploitation binaire                            |             |                             |         |          |
-| 04/03   | Exploitation binaire moderne                    |             |                             |         |          |
+| 03/13   | Rétroingénierie                                 |             | [rev seulement](labs/08-rev-pwn.md)   |         |          |
+| 03/20   | Exploitation binaire                            |             | [phoenix](labs/08-rev-pwn.md) |         |          |
+| 03/27   | Exploitation binaire                            |             | [pwn](labs/08-rev-pwn.md) |         |          |
+| 04/03   | Exploitation binaire moderne                    |             | [pwn](labs/08-rev-pwn.md) et aide au TP |         |          |
 | 04/10   | Exploitation binaire moderne et contemporaine   |             |                             |         |          |
 | 04/17   | Exploitation binaire contemporaine              |             |                             |         |          |
 | 04/24   | Examen final                                    |             |                             |         |          |
