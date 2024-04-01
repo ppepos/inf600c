@@ -115,7 +115,10 @@ Fri Mar 15 04:00:00 PM EST 2024 "1753CTF 2024"
 Fri Mar 22 07:00:00 PM EST 2024 "LINE CTF 2024"
 Sat Mar 23 11:00:00 AM EST 2024 "JerseyCTF IV"
 Sat Mar 30 10:00:00 AM EST 2024 "VolgaCTF 2024 Qualifier"
-Fri Apr  5 05:00:00 PM EST 2024 "TAMUctf 2024"
+Fri Apr  6 05:00:00 PM EST 2024 "TAMUctf 2024"
+Sat Apr  8 06:00:00 AM EST 2023 "Midnight Sun CTF 2023 Quals"
+Fri Apr 14 04:00:00 PM EST 2023 "PlaidCTF 2023" ^1
+Fri Apr 21 07:00:00 PM EST 2023 "ångstromCTF 2023"
 ```
 
 ^1: Mi-ours, mi-scorpion et re-mi-ours derrière (difficile, mais bien)
