@@ -114,6 +114,7 @@ Ils sont à la bibliothèque des sciences de l'UQAM et certains sont à la BANQ.
 * [Final 2018](exam/INF600C-181-final-sujet.pdf) et [corrigé](exam/INF600C-181-final-corrige.pdf)
 * [Intra 2019](exam/INF600C-191-intra-sujet.pdf) et [corrigé](exam/INF600C-191-intra-corrige.pdf)
 * [Final 2022](exam/INF600C-221-final.pdf)
+* [Pratique 2024](exam/INF600C-241-final-pratique.pdf)
 
 ## Exercices
 
