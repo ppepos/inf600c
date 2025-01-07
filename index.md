@@ -8,8 +8,9 @@ title: INF600C - Accueil
 * [Plan de cours](http://info.uqam.ca/plan_cours/Hiver%202023/INF600C.html)
 * [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
 * [Slides](https://github.com/ppepos/inf600c/tree/master/pres)
-* [Page des TPs](tps.md)
 * [Questions](faq.md)
+
+<!-- * [Page des TPs](tps.md) -->
 
 # Échéancier
 
@@ -19,33 +20,33 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 | Date    | Sujet                  | Exercices                                 | Laboratoire                 | Notes                                 | Extras   |
 | ------- | ---------------------- | ----------------------------------------- | --------------------------- | ------------------------------------- | -------- |
-| 01/10   | Introduction           | [Exercices](cours/intro.md)               | [intro](labs/01-intro.md)   |                                       |          |
-| 01/17   | Exploitation système   | [Exercices](cours/systeme.md)             | [sys](labs/02-systeme.md)   |                                       |          |
-| 01/24   | Exploitation système   | [Matière Async.](cours/systeme_next.md)   | intro et sys avancés        |                                       |          |
-| 01/31   | Noyau et Web           |                                           |                             | [TP1](tps.md)                         |          |
-| 02/07   | Web                    |                                           | [web](labs/03-web.md)       |                                       |          |
-| 02/14   | Web                    |                                           |                             |                                       |          |
-| 02/21   | Web                    |                                           |                             |                                       |          |
-| *02/28* | *N/A*                  | *N/A*                                     |                             | *Semaine de lecture*, Remise TP1 (26) |          |
-| 03/06   | Examen intra           |                                           |                             |                                       |          |
+| 01/08   | Introduction           | [Exercices](cours/intro.md)               |                             |                                       |          |
+| 01/15   | Exploitation système   | [Exercices](cours/systeme.md)             |  [intro](labs/01-intro.md)  |                                       |          |
+| 01/22   | Exploitation système   | [Matière Async.](cours/systeme_next.md)   |  [sys](labs/02-systeme.md)  |                                       |          |
+| 01/29   | Noyau et Web           |                                           |  Terminer intro et sys      |                                       |          |
+| 02/05   | Web                    |                                           |                             |                                       |          |
+| 02/12   | Web                    |                                           |                             |                                       |          |
+| 02/19   | Web                    |                                           |                             |                                       |          |
+| 02/26   | Examen intra           |                                           |                             |                                       |          |
+| *03/05* |*N/A*                   | *N/A*                                     |                             | *Semaine de lecture*, Remise TP1 (26) |          |
 
 ## Partie 2
 
 | Date    | Sujet                                           | Exercices   | Laboratoire                 | Notes   | Extras   |
 | ------- | ----------------------------------------------- | ----------- | --------------------------- | ------- | -------- |
-| 03/13   | Rétroingénierie                                 |             | [rev seulement](labs/08-rev-pwn.md)   |         |          |
-| 03/20   | Exploitation binaire                            |             | [phoenix](labs/08-rev-pwn.md) |         |          |
-| 03/27   | Exploitation binaire                            |             | [pwn](labs/08-rev-pwn.md) |         |          |
-| 04/03   | Exploitation binaire moderne                    |             | [pwn](labs/08-rev-pwn.md) et aide au TP |         |          |
-| 04/10   | Exploitation binaire moderne et contemporaine   |             |                             |         |          |
-| 04/17   | Exploitation binaire contemporaine              |             |                             |         |          |
-| 04/24   | Examen final                                    |             |                             |         |          |
+| 03/12   | Rétroingénierie                                 |             |                             |         |          |
+| 03/19   | Exploitation binaire                            |             |                             |         |          |
+| 03/26   | Exploitation binaire                            |             |                             |         |          |
+| 04/02   | Exploitation binaire moderne                    |             |                             |         |          |
+| 04/09   | Exploitation binaire moderne et contemporaine   |             |                             |         |          |
+| 04/16   | Exploitation binaire contemporaine              |             |                             |         |          |
+| 04/23   | Examen final                                    |             |                             |         |          |
 
 # Support et contacts
 
 * Professeur: <pepos-petitclerc.philippe@uqam.ca>
-  * Heures de bureau: Mardi 13h30-15h30 (PK-5722)
-* Démonstrateurs et support: Marc-Antoine Lavallée (@marcolpogo): <lavallee.marc-antoine.2@uqam.ca>
+  * Heures de bureau: À déterminer. (PK-5722)
+* Démonstrateurs et support: Valesca Vallée (@valesca): <vallee.melissa@uqam.ca>
 * Canal de discussion officiel: [Mattermost Officiel](https://mattermost.info.uqam.ca/forum/channels/inf600c)
 * Canal de discussion officieux: Il y a un canal sur le discord de l'association étudiante.
 
