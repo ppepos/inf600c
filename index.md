@@ -5,8 +5,8 @@ title: INF600C - Accueil
 # Informations importantes
 
 * [Horaires et locaux](https://etudier.uqam.ca/cours?sigle=INF600C#horaire1)
-* [Plan de cours](http://info.uqam.ca/plan_cours/Hiver%202023/INF600C.html)
-* [Entente UQAM](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf) à signer
+* [Plan de cours](http://info.uqam.ca/plan_cours/Hiver%202025/INF600C.html)
+* [Entente UQAM](https://inf600c.uqam.ca/EntenteUQAM.pdf) à signer
 * [Slides](https://github.com/ppepos/inf600c/tree/master/pres)
 * [Questions](faq.md)
 
@@ -52,7 +52,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 # Laboratoires
 
-Les laboratoires ont lieu dans un environnement dédié. Comme nous allons attaquer des services qui sont déployés à l'intérieur de l'UQAM, il est important que tout le monde signe l'[entente disponible ici](https://info.uqam.ca/~privat/INF600C/EntenteUQAM.pdf).
+Les laboratoires ont lieu dans un environnement dédié. Comme nous allons attaquer des services qui sont déployés à l'intérieur de l'UQAM, il est important que tout le monde signe l'[entente disponible ici](https://inf600c.uqam.ca/EntenteUQAM.pdf).
 
 La connexion à l'environnement se fait via ssh grâce au login et mot de passe qui vous a été envoyé par courriel
 
@@ -64,7 +64,7 @@ $ ssh -D 2223 LOGIN@workspace.inf600c.uqam.ca
 
 Pour les services web, l'accès se fait de préférence via le proxy SOCKS5 créé par ssh via l'option -D 2223.
 
-Un fichier d'auto-configuration [inf600c.pac](http://info.uqam.ca/~privat/INF600C/inf600c.pac) est disponible pour la majorité des navigateurs.
+Un fichier d'auto-configuration [inf600c.pac](https://inf600c.uqam.ca/inf600c.pac) est disponible pour la majorité des navigateurs.
 
 * Pour curl, l'option `-x socks5h://localhost:2223` fait le travail.
   Exemple:
@@ -77,10 +77,10 @@ curl -x socks5h://localhost:2223 http://workspace.kaa/
   Exemple:
 
 ~~~
-chromium --proxy-pac-url=http://info.uqam.ca/~privat/INF600C/inf600c.pac "http://workspace.kaa"
+chromium --proxy-pac-url=https://inf600c.uqam.ca/inf600c.pac "http://workspace.kaa"
 ~~~
 
-* Pour Firefox, la configuration est rangée dans: menu > préférences > avancé > réseau > configurer la façon dont Firefox se connecte à Internet > adresse de configuration automatique du proxy > mettre `http://info.uqam.ca/~privat/INF600C/inf600c.pac` dans le champ ; cocher également utiliser un DNS distant lorsque SOCKS v5 est actif
+* Pour Firefox, la configuration est rangée dans: menu > préférences > avancé > réseau > configurer la façon dont Firefox se connecte à Internet > adresse de configuration automatique du proxy > mettre `https://inf600c.uqam.ca/inf600c.pac` dans le champ ; cocher également utiliser un DNS distant lorsque SOCKS v5 est actif
 
 <!--
 
@@ -93,7 +93,7 @@ Le logiciel [Burp](https://portswigger.net/burp/communitydownload) peut être ut
 # Ressources
 
 * [Page des videos (anciennes sessions)](videos.md)
-* [Aide mémoire Pep/8 (version INF600C)](https://info.uqam.ca/~privat/INF600C/aide-pep8.pdf)
+* [Aide mémoire Pep/8 (version INF600C)](https://raw.githubusercontent.com/ppepos/inf600c/refs/heads/master/aide-pep8.pdf)
 
 ## Livres
 
