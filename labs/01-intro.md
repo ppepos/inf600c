@@ -56,7 +56,7 @@ Et voici la liste des quêtes optionnelles que l'on vous suggère tout de même 
 | kvm.io         | 4162 |
 | botte_secrete  | 4163 |
 | grelotine      | 4164 |
-| echelle        | ---- |
+| echelle        | `ctf.hackin.ca` |
 | lac_de_l_ombre | 4166 |
 | bridge_of_death| 4167 |
 | adoubement     | 4168 |
