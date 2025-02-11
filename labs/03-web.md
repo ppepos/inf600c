@@ -62,9 +62,11 @@ Disponible sur [http://back.alley.kaa](http://back.alley.kaa).
 2. Devenez admin
 3. Récupérez le mot de passe de l'utilisateur admin
 
+Exercices supplémentaires sur les injections SQL: [ctf.hackin.ca](http://ctf.hackin.ca)
+
 # Extra
 
-Exercices suplémentaires pour briller dans le scoreboard
+Exercices suplémentaires.
 
 * http://www.rh.casino-drumond.kaa (CTF CCWC 2017 & TP1 2018)
   Login: «guest», Pass: «guest», Objectif: devenir «admin»
@@ -80,15 +82,10 @@ Exercices suplémentaires pour briller dans le scoreboard
   Flag2 difficulté 2
 * http://marketing.kaa (CTF CCWC 2017)
   Flag difficulté 3
-* http://back.alley.kaa (CTF CCWC 2017)
-  Login: «guest», Pass: «guest», Objectif: devenir «admin»
-  Flag1 difficulté 2
-  Flag2 difficulté pwn
 
 Les excercices qui suivent sont plus difficiles
 
 * http://i.got.id.kaa (CTF CSAW 2016)
-* http://mfw.kaa (CTF CSAW 2016)
 * http://wtf.kaa (CTF CSAW 2016)
 
 # Exemples du cours
