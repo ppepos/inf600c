@@ -9,8 +9,7 @@ title: INF600C - Accueil
 * [Entente UQAM](https://inf600c.uqam.ca/EntenteUQAM.pdf) à signer
 * [Slides](https://github.com/ppepos/inf600c/tree/master/pres)
 * [Questions](faq.md)
-
-<!-- * [Page des TPs](tps.md) -->
+* [Page des TPs](tps.md)
 
 # Échéancier
 
