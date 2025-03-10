@@ -44,7 +44,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 # Support et contacts
 
 * Professeur: <pepos-petitclerc.philippe@uqam.ca>
-  * Heures de bureau: À déterminer. (PK-5722)
+  * Heures de bureau: Mardi 13h-16h. (PK-5722)
 * Démonstrateurs et support: Valesca Vallée (@valesca): <vallee.melissa@uqam.ca>
 * Canal de discussion officiel: [Mattermost Officiel](https://mattermost.info.uqam.ca/forum/channels/inf600c)
 * Canal de discussion officieux: Il y a un canal sur le discord de l'association étudiante.
