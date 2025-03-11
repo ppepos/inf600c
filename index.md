@@ -23,7 +23,7 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 | 01/15   | Exploitation système   | [Exercices](cours/systeme.md)             |  [intro](labs/01-intro.md)  |                                       |          |
 | 01/22   | Exploitation système   | [Matière Async.](cours/systeme_next.md)   |  [sys](labs/02-systeme.md)  |                                       |          |
 | 01/29   | Noyau et Web           |                                           |  Terminer intro et sys      |                                       |          |
-| 02/05   | Web                    |                                           |                             |                                       |          |
+| 02/05   | Web                    |                                           |  [web](labs/03-web.md)      |                                       |          |
 | 02/12   | Web                    |                                           |                             |                                       |          |
 | 02/19   | Web                    |                                           |                             |                                       |          |
 | 02/26   | Examen intra           |                                           |                             |                                       |          |
@@ -31,15 +31,15 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 ## Partie 2
 
-| Date    | Sujet                                           | Exercices   | Laboratoire                 | Notes   | Extras   |
-| ------- | ----------------------------------------------- | ----------- | --------------------------- | ------- | -------- |
-| 03/12   | Rétroingénierie                                 |             |                             |         |          |
-| 03/19   | Exploitation binaire                            |             |                             |         |          |
-| 03/26   | Exploitation binaire                            |             |                             |         |          |
-| 04/02   | Exploitation binaire moderne                    |             |                             |         |          |
-| 04/09   | Exploitation binaire moderne et contemporaine   |             |                             |         |          |
-| 04/16   | Exploitation binaire contemporaine              |             |                             |         |          |
-| 04/23   | Examen final                                    |             |                             |         |          |
+| Date    | Sujet                                                                                                                                                    | Exercices   | Laboratoire                | Notes   | Extras   |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- | ---------------------------| ------- | -------- |
+| 03/12   | Web client et Rétroingénierie                                                                                                                            |             | [rev](labs/08-rev.md)      |         |          |
+| 03/19   | Exploitation binaire                                                                                                                                     |             | [pwn](labs/09-pwn.md)      |         |          |
+| 03/26   | Exploitation binaire                                                                                                                                     |             |                            |         |          |
+| 04/02   | Exploitation binaire moderne                                                                                                                             |             | ASLR                       |         |          |
+| 04/09   | Exploitation binaire moderne et contemporaine. *Invité: Philippe Grégoire. Exploitation de la désérialisation Java assistée par l'exécution symbolique*  |             |                            |         |          |
+| 04/16   | Exploitation binaire contemporaine                                                                                                                       |             |                            |         |          |
+| 04/23   | Examen final                                                                                                                                             |             |                            |         |          |
 
 # Support et contacts
 
