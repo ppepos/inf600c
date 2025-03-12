@@ -31,15 +31,15 @@ Note: les dates ci-dessous ne sont qu'indicatives.
 
 ## Partie 2
 
-| Date    | Sujet                                                                                                                                                    | Exercices   | Laboratoire                | Notes   | Extras   |
-| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- | ---------------------------| ------- | -------- |
-| 03/12   | Web client et Rétroingénierie                                                                                                                            |             | [rev](labs/08-rev.md)      |         |          |
-| 03/19   | Exploitation binaire                                                                                                                                     |             | [pwn](labs/09-pwn.md)      |         |          |
-| 03/26   | Exploitation binaire                                                                                                                                     |             |                            |         |          |
-| 04/02   | Exploitation binaire moderne                                                                                                                             |             | ASLR                       |         |          |
-| 04/09   | Exploitation binaire moderne et contemporaine. *Invité: Philippe Grégoire. Exploitation de la désérialisation Java assistée par l'exécution symbolique*  |             |                            |         |          |
-| 04/16   | Exploitation binaire contemporaine                                                                                                                       |             |                            |         |          |
-| 04/23   | Examen final                                                                                                                                             |             |                            |         |          |
+| Date  | Sujet                                                                                                                                                   | Exercices | Laboratoire           | Notes | Extras |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------------------|-------|--------|
+| 03/12 | Web client et Rétroingénierie                                                                                                                           |           | [rev](labs/08-rev.md) |       |        |
+| 03/19 | Exploitation binaire                                                                                                                                    |           | [pwn](labs/09-pwn.md) |       |        |
+| 03/26 | Exploitation binaire                                                                                                                                    |           |                       |       |        |
+| 04/02 | Exploitation binaire moderne                                                                                                                            |           | ASLR                  |       |        |
+| 04/09 | Exploitation binaire moderne et contemporaine. *Invité: Philippe Grégoire. Exploitation de la désérialisation Java assistée par l'exécution symbolique* |           |                       |       |        |
+| 04/16 | Exploitation binaire contemporaine. *Invitée: Léanne Dutil. Écosystème du cybercrime et développement de malware*                                       |           |                       |       |        |
+| 04/23 | Examen final                                                                                                                                            |           |                       |       |        |
 
 # Support et contacts
 
