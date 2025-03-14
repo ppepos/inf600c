@@ -105,6 +105,7 @@ Les modalités sont les mêmes que détaillées [ici](https://info.uqam.ca/~priv
 Voici également une liste CTFs préauthorisés. Si vous souhaitez participer à un CTF qui n'est pas dans cette liste, faites le approuver au préalable.
 Vous trouverez plus d'information sur chacun sur [CTF Time](https://ctftime.org) (site web, style, anciens défis pour vous préparer, inscription, etc.).
 
+<!--
 ```
 Fri Feb  2 04:00:00 PM EST 2024 "DiceCTF 2024 Quals" ^1
 Fri Feb  9 08:00:00 AM EST 2024 "0xL4ugh CTF 2024"
@@ -121,6 +122,28 @@ Fri Apr  6 05:00:00 PM EST 2024 "TAMUctf 2024"
 Sat Apr  8 06:00:00 AM EST 2023 "Midnight Sun CTF 2023 Quals"
 Fri Apr 14 04:00:00 PM EST 2023 "PlaidCTF 2023" ^1
 Fri Apr 21 07:00:00 PM EST 2023 "ångstromCTF 2023"
+```
+-->
+
+```
+Fri Mar 14 06:00:00 PM EST 2025 "UTCTF 2025"
+Fri Mar 21 08:00:00 AM EST 2025 "Cyber Apocalypse CTF 2025: Tales from Eldoria"
+Fri Mar 21 02:00:00 PM EST 2025 "pingCTF 2025"
+Fri Mar 21 04:00:00 PM EST 2025 "RITSEC CTF 2025"
+Fri Mar 21 06:00:00 PM EST 2025 "WolvCTF 2025"
+Thu Mar 27 07:21:00 PM EST 2025 "SwampCTF 2025"
+Fri Mar 28 04:00:00 PM EST 2025 "DiceCTF 2025 Quals" ^1
+Fri Mar 28 05:00:00 PM EST 2025 "TAMUctf 2025"
+Fri Mar 28 07:00:00 PM EST 2025 "Codegate CTF 2025 Preliminary" ^1
+Sat Mar 29 07:00:00 AM EST 2025 "VolgaCTF 2025 Qualifier"
+Sat Mar 29 02:00:00 PM EST 2025 "JerseyCTF V"
+Fri Apr  4 04:00:00 PM EST 2025 "PlaidCTF 2025" ^1
+Fri Apr 11 07:00:00 PM EST 2025 "DEF CON CTF Qualifier 2025" ^1
+Sat Apr 12 03:00:00 AM EST 2025 "THCon 2K25 CTF"
+Fri Apr 18 07:00:00 AM EST 2025 "DawgCTF 2025"
+Fri Apr 18 01:00:00 PM EST 2025 "UMassCTF 2025"
+Fri Apr 18 06:00:00 PM EST 2025 "b01lers CTF 2025"
+Sat Apr 19 07:00:00 AM EST 2025 "Midnight Sun CTF 2025 Quals"
 ```
 
 ^1: Mi-ours, mi-scorpion et re-mi-ours derrière (difficile, mais bien)
