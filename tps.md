@@ -88,11 +88,9 @@ La remise doit être électronique (pdf).
 
 * Faites bien attention au nom du répertoire, les TPs sont récoltés par un script.
 
-<!--
 * Vous remettrez également la version imprimée de votre rapport. Vous avez trois options:
 	* Au département d'informatique *avant 16h le 30 avril*
 	* Au cours du 24 avril
--->
 -->
 
 ## Dates et remise du TPS
