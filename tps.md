@@ -95,7 +95,7 @@ La remise doit être électronique (pdf).
 
 ## Dates et remise du TPS
 
-Les modalités sont les mêmes que détaillées [ici](https://info.uqam.ca/~privat/INF600C/tps/) à l'exception de:
+Les modalités sont les mêmes que détaillées [ici](https://inf600c.uqam.ca/tps/) à l'exception de:
 
  * La date de remise est fixée au 25 avril avant 16h.
  * La version papier est à remettre dans la chute à travaux du département d'informatique (PK, 4e étage près des ascenseurs)
