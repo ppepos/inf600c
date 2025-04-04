@@ -68,7 +68,6 @@ La remise doit être électronique (pdf).
 * Faites bien attention au nom du répertoire, les TPs sont récoltés par un script.
 <!-- * Au cours suivant, soit le 29 mars, vous remettrez la version imprimée de votre rapport. Vous y incluerez aussi les versions imprimées de vos scripts et payloads. -->
 
-<!-- 
 ## Dates et remise du TP2
 
 La limite de taille pour le document à rendre est de 10 pages.
@@ -76,11 +75,11 @@ La limite de taille pour le document à rendre est de 10 pages.
 Les instructions sont dans:
 
 * Répertoire `/quetes/tp2`
-* Lisez le fichiers `/quetes/tp2/*/README*` pour les instructions.
+* Lisez le fichiers `/quetes/tp2/README.md` et `/quetes/tp2/*/README*` pour les instructions.
 
 La remise doit être électronique (pdf).
 
-* Au plus tard le 25 avril, 12h00 (midi) dans le répertoire «`tp2_remise`» dans le home de votre utilisateur sur le serveur workspace des laboratoires, vous remettrez:
+* Au plus tard le 25 avril, 16h00 dans le répertoire «`tp2_remise`» dans le home de votre utilisateur sur le serveur workspace des laboratoires, vous remettrez:
 
 	* Le fichier pdf de votre rapport
 	* Vos payloads et autres scripts (ceux en annexe)
@@ -88,17 +87,12 @@ La remise doit être électronique (pdf).
 
 * Faites bien attention au nom du répertoire, les TPs sont récoltés par un script.
 
-* Vous remettrez également la version imprimée de votre rapport. Vous avez trois options:
-	* Au département d'informatique *avant 16h le 30 avril*
-	* Au cours du 24 avril
--->
-
 ## Dates et remise du TPS
 
 Les modalités sont les mêmes que détaillées [ici](https://inf600c.uqam.ca/tps/) à l'exception de:
 
  * La date de remise est fixée au 25 avril avant 16h.
- * La version papier est à remettre dans la chute à travaux du département d'informatique (PK, 4e étage près des ascenseurs)
+ * Seule une version papier est à remettre dans la chute à travaux du département d'informatique (PK, 4e étage près des ascenseurs)
 
 Voici également une liste CTFs préauthorisés. Si vous souhaitez participer à un CTF qui n'est pas dans cette liste, faites le approuver au préalable.
 Vous trouverez plus d'information sur chacun sur [CTF Time](https://ctftime.org) (site web, style, anciens défis pour vous préparer, inscription, etc.).
